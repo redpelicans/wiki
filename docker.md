@@ -24,9 +24,12 @@ f2c1hjlonmbxv5b2x9jkitpm1 *   rp4                 Ready               Active    
 rp3:~# docker info 
 ...
 
-# docker create network -d overlay --attachable net1
-
+# docker network create --attachable -d overlay net1
 ```
+
+# Archi
+
+![Dessin Sans Titre](/uploads/dessin-sans-titre.jpg "Dessin Sans Titre")
 
 # Launch Docker containers
 
