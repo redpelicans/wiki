@@ -39,7 +39,7 @@ rp3:~# docker info
 mongo data are saved in /opt/mongoprod/dump via crontab and copy to rp3:/opt/bkp
 
 ```
-rp4:~# docker run --restart=always --name mongoprod -v /opt/mongoprod:/data/db --net=net1 --replicas 1 --constraint 'node.hostname==rp4' -d mongo
+rp4:~# docker run --restart=always --name mongoprod -v /opt/mongoprod:/data/db --net=net1 --replicas 1 --env 'constraint:node==rp4' -d mongo
 ```
 ## website
 
