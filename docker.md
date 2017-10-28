@@ -27,7 +27,7 @@ rp3:~# docker info
 # docker network create --attachable -d overlay net1
 ```
 
-# Archi
+# Glimpse of Architecture
 
 ![Dessin Sans Titre](/uploads/dessin-sans-titre.jpg "Dessin Sans Titre")
 
@@ -75,5 +75,43 @@ website is accessible directly via port 8282 or via proxy
 
 ```
 # docker service create -d --name=wiki --network net1 --constraint 'node.hostname==rp4' --replicas 1 -e "WIKI_ADMIN_EMAIL=admin@redpelicans.com" --mount type=bind,src=/opt/wiki/config.yml,dst=/var/wiki/config.yml --mount type=bind,src=/opt/wiki/github,dst=/var/wiki/github -p 8181:3000 requarks/wiki
+```
+
+# Docker tips
+
+```
+# docker service ls
+ID                  NAME                MODE                REPLICAS            IMAGE                        PORTS
+x8rcwjdat4te        ghost               replicated          1/1                 redpelicans/ghost:latest     
+vvkojqkyflgk        peep                replicated          1/1                 redpelicans/peep:latest      *:8383->80/tcp
+qgn8fgqt99vu        proxy               replicated          2/2                 node:latest                  *:80->80/tcp
+xbdun6n6l32m        website             replicated          2/2                 redpelicans/website:latest   *:8282->80/tcp
+7zs3jb8a6glr        wiki                replicated          1/1                 requarks/wiki:latest         *:8181->3000/tcp
+
+# docker service ps website
+ID                  NAME                IMAGE                        NODE                DESIRED STATE       CURRENT STATE            ERROR               PORTS
+mtaliuhmqsas        website.1           redpelicans/website:latest   rp4                 Running             Running 14 minutes ago                       
+b69hgzzwo1x9        website.2           redpelicans/website:latest   rp3                 Running             Running 14 minutes ago                       
+
+# docker ps 
+CONTAINER ID        IMAGE                        COMMAND                  CREATED             STATUS              PORTS                          NAMES
+deb4bb9876bc        redpelicans/ghost:latest     "bash /ghost-start"      14 minutes ago      Up 14 minutes       2368/tcp                       ghost.1.okzar62mer34xo04ehurilx0u
+2cb192f24e88        redpelicans/peep:latest      "/bin/sh -c 'yarn ..."   14 minutes ago      Up 14 minutes       80/tcp                         peep.1.qljitk7pqhejmv767za2qr3p0
+fb33ba8450f9        redpelicans/website:latest   "/bin/sh -c 'yarn ..."   14 minutes ago      Up 14 minutes       80/tcp                         website.1.mtaliuhmqsas7vusvjc4pboxc
+...
+
+# docker service rm untruc
+
+# docker network ls
+NETWORK ID          NAME                DRIVER              SCOPE
+3bd8019ea13c        bridge              bridge              local
+f20f4f8c0fc0        docker_gwbridge     bridge              local
+e8193dd5bfba        host                host                local
+mcv28tanp00l        ingress             overlay             swarm
+6z4juiiaixdg        net1                overlay             swarm
+...
+
+# docker build --no-cache -t redpelicans/untruc .
+ 
 ```
 
