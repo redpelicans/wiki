@@ -24,6 +24,8 @@ f2c1hjlonmbxv5b2x9jkitpm1 *   rp4                 Ready               Active    
 rp3:~# docker info 
 ...
 
+# docker create network -d overlay --attachable net1
+
 ```
 
 # Launch Docker containers
@@ -34,7 +36,7 @@ rp3:~# docker info
 mongo data are saved in /opt/mongoprod/dump via crontab and copy to rp3:/opt/bkp
 
 ```
-rp4:~# docker run --restart=always --name mongoprod -v /opt/mongoprod:/data/db --net=swarm --replicas 1 --constraint 'node.hostname==rp4' -d mongo
+rp4:~# docker run --restart=always --name mongoprod -v /opt/mongoprod:/data/db --net=net1 --replicas 1 --constraint 'node.hostname==rp4' -d mongo
 ```
 ## website
 
