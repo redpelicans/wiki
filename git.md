@@ -11,8 +11,7 @@ This workflow allows isolated experiments and a more efficient collaboration.
 
 All developpers work locally and push branches to a central repo. The central repo is seen as the communication hub for all developpers.
 
-**Everything in master is always deployable.
-**
+**Everything in master is always deployable**
 ### Required branches
 The master branch stores official release history and all its commits should be tagged with semver convention.
 The staging branch is used as an integration branch for features.
@@ -22,15 +21,13 @@ Each new feature should resides in its own branch. This branch could be pushed t
 A feature branch is branching off staging and not master.
 When a feature is complete, the concerned branch is merged back in staging.
 
-**Features should never interact directly with master.
-**
+**Features should never interact directly with master**
 
 ### Release branches
 
 Once staging is ready for a release, a release branch is created by forking staging. New feature could not be added anymore back to staging during the life of a release branch.
 
-**Only release-oriented tasks should go in a release branch (bug, fixes, documentation, etc…)
-**
+**Only release-oriented tasks should go in a release branch (bug, fixes, documentation, etc…)**
 Once ready, release branch is merged into master with a version tag and in parallel merged back in staging.
 
 This kind of branch allows part of the team to double-check the release while the rest continues to work on features for the next releases.
