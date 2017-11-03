@@ -1,4 +1,4 @@
-# To Study
+# To Be Studied
 
 * Saga, sagas test
 * Setup, mokea, babellish
