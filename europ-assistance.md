@@ -1,7 +1,13 @@
+# To Study
+
+* Saga, sagas test
+* Setup, mokea, babellish
+
 # To Be Explained
 
 * Injectors, ex : injectReducer() see app/pages/Events, why loading reducers dynamically ?
 * why SSR ?
+* Best practices 
 
 
 # To Be Defined
