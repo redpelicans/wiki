@@ -2,11 +2,12 @@
 
 * Saga, sagas test
 * Setup, mokea, babellish
+* Jenkins
 
 # To Be Explained
 
 * Injectors, ex : injectReducer() see app/pages/Events, why loading reducers dynamically ?
-* why SSR ?
+* why SSR ? to change favicon, deeplinking on page !!
 * Best practices 
 
 
