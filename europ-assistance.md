@@ -11,6 +11,8 @@
 * Injectors, ex : injectReducer() see app/pages/Events, why loading reducers dynamically ?
 * why SSR ? to change favicon, deeplinking on page !!
 * Best practices 
+* setPropTypes
+
 
 
 # To Be Defined
