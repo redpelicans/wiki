@@ -3,6 +3,7 @@
 * Saga, sagas test
 * Setup, mokea, babellish
 * Jenkins
+* Webpack buildingDll
 
 # To Be Explained
 
