@@ -26,5 +26,5 @@
 * SSR
 * bundle process + server => use CRA + peep
 * use evtX
-~~ * use Prettier~~
+* ~~use Prettier~~
 * config client and server
