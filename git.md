@@ -6,7 +6,7 @@
 cat ~/.gitconfig
 [alias]
   lg = log --graph --pretty=format:'%Cred%h%Creset %Cgreen%ci %Cblue%an%Creset%C(yellow)%d%Creset %s' --abbrev-commit
-	```
+```
 	
 # Git workflow
 
