@@ -1,6 +1,13 @@
 <!-- TITLE: Git -->
 <!-- SUBTITLE: A quick summary of Git -->
 
+# Git config
+```
+cat ~/.gitconfig
+[alias]
+  lg = log --graph --pretty=format:'%Cred%h%Creset %Cgreen%ci %Cblue%an%Creset%C(yellow)%d%Creset %s' --abbrev-commit
+	```
+	
 # Git workflow
 
 The workflow heavily relies on branches. It assigns very specific roles to these branches and defines how and when they should interact. Branches are used for preparing, maintaining and keep track of releases.
