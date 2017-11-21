@@ -1,5 +1,5 @@
 <!-- TITLE: Fish -->
-<!-- SUBTITLE: A quick summary of Fish -->
+<!-- SUBTITLE: A quick how to of Fish -->
 
 # Install
 
