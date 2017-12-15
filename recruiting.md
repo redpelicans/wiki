@@ -2,8 +2,27 @@
 <!-- SUBTITLE: A quick summary of Recruiting -->
 
 # technical interview
+## questions
+Soft:
+* How well do you communicate with people? -> detect clones of 1984
+* Do you know your limitations? -> detect possible complications during the training
+* How well do you deal with challenges? -> detect interesting past experiences
+* How excited are you about working for RedPelicans? -> detect motivation for RP or just the training...
+* Do you hold a grudge? -> detect troubles whith previous experiences
 
-## factorial
+Javascript:
+* What’s the Difference Between Class & Prototypal Inheritance?
+* What is Functional Programming?
+* What is a Promise?
+
+React/Redux:
+* What is the virtualDOM
+* What is the purpose of shouldComponentUpdate()
+* What is a reducer?
+* How async is handled in Redux?
+
+## code
+### factorial
 ```javascript
 // es6 function syntax
 const f1 = () => {};
@@ -32,8 +51,7 @@ console.log(a1, f4(a1));
 // exercice: i want [1,3] from a1 (reject even number)
 ```
 
-## analog watch
-
+### analog watch
 ```javascript
 // 1a- use _.times to display an array of 4 0 in the console [0,0,0,0]
 const ex1a = _.times(4, _.constant(0));
@@ -74,8 +92,7 @@ console.log(ex2a, ex2b(4, 2), ex2b(3, 0, '*'), ex2b(3, 1, '*'), ex2b(3, 2, '*'))
 // [0,0,0,-]
 ```
 
-## arithmetic suite
-
+### arithmetic suite
 ```javascript
 // arithmetic suite -> accumulator
 const acc = _.reduce(
