@@ -8,7 +8,7 @@ Soft:
 * Do you know your limitations? -> detect possible complications during the training
 * How well do you deal with challenges? -> detect interesting past experiences
 * How excited are you about working for RedPelicans? -> detect motivation for RP or just the training...
-* Do you hold a grudge? -> detect troubles whith previous experiences
+* Do you hold a grudge? -> detect troubles with previous experiences
 
 Javascript:
 * What’s the Difference Between Class & Prototypal Inheritance?
@@ -32,20 +32,20 @@ const f1 = () => {};
 // always return a collection with the same size
 const f2 = (n) => n*2;
 const a1 = [1,2,3];
-const f3 = _.map(a1, f2);
+const r1 = _.map(a1, f2);
 
-// what will be f3(a1) ?
-console.log(a1, f3(a1));
+// what will be f3 ?
+console.log(a1, r1);
 
 // exercice: i want [4,5,6]
 
 // reduce definition -> map with a state (memo)
 // iteratee signature: (memo, item, index|key)
 const f4 = (memo, n) => n*2;
-const f5 = _.reduce(a1, f4, 0);
+const r2 = _.reduce(a1, f4, 0);
 
-// what will be f4(a1) ?
-console.log(a1, f4(a1));
+// what will be r2 ?
+console.log(a1, r2);
 
 // exercice: i want 4! (1x2x3x4 = 24)
 // exercice: i want [1,3] from a1 (reject even number)
