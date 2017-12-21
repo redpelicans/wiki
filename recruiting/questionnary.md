@@ -48,14 +48,15 @@ Rate each answer from 0 to 4.
 1. reducer's signature ?
 2. Sum an array with a reducer
 3. Data model :
+
 ```
 users : [{ id, name }]
 songs: [{ id, title }]
 history: [{id, userId, songId}]
-
-U should print a report like:
-[{ title, name}]
 ```
+
+U should print a report like: [{ title, name}]
+
 
 Explain your algo, what about its complexity, can U optimize ?
 
