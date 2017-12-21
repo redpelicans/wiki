@@ -54,7 +54,7 @@ songs: [{ id, title }]
 history: [{id, userId, songId}]
 
 U should print a report like:
-[	{ title, name} ]
+[{ title, name}]
 ```
 
 Explain your algo, what about its complexity, can U optimize ?
