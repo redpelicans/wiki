@@ -31,6 +31,31 @@ Rate each answer from 0 to 4.
 
 ## Redux
 
+1. Name a library to manage state with React ?
+2. Explain Flux Pattern
+3. Difference between action and action creator ?
+4. Action creators execution are synchronous or asynchronous ?
+5. Explain how redux-thunk works ?
+6. Can U define a reducer's signature ?
+
 ## Build Chain
 
+1. How our code is executed inside a browser, describe steps
+2. How `import 'styles.css'` can be executed by nodejs
+
 ## Code
+
+1. reducer's signature ?
+2. Sum an array with a reducer
+3. Data model :
+```
+users : [{ id, name }]
+songs: [{ id, title }]
+history: [{id, userId, songId}]
+
+U should print a report like:
+[	{ title, name} ]
+```
+
+Explain your algo, what about its complexity, can U optimize ?
+
