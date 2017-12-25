@@ -8,4 +8,4 @@ Attendees:
 * Arnaud Le Floch (RP) - arnaud.lefloch@redpelicans.com
 * Mahmoud chebbou - mahmoud.chebbou@nearteam.fr
 
-- [ ] create google accounts for RP attendees
+> [ ] create google accounts for RP attendees
