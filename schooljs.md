@@ -1,2 +1,2 @@
 <!-- TITLE: Schooljs -->
-<!-- SUBTITLE: A quick summary of Schooljs -->
+<!-- SUBTITLE: All about training sessions -->
