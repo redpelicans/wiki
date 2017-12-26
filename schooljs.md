@@ -28,4 +28,4 @@
 
 > run `node --version` and `git --version` in the console
 
-## day 1
+### day 1
