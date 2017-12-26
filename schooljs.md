@@ -40,3 +40,13 @@
 - [ ] read [react documentation](https://reactjs.org/docs/hello-world.html)
 - [ ] read [react-elements-vs-react-components](https://medium.freecodecamp.org/react-elements-vs-react-components-fdc776705880)
 - [ ] read [es6 introduction](https://ponyfoo.com/articles/es6)
+
+**day 2:**
+- [ ] dev1 list of missions (stateless, no props)
+- [ ] react properties, rest parameter, reat `PropTypes`
+- [ ] dev2 update dev1 with props, `PropTypes` and data from a store
+- [ ] how to style in react (css stylesheet, react css, css modules, [glamorous](https://glamorous.rocks/)), explain autoprefixer, introduce [blueprintjs](http://blueprintjs.com/docs/)
+- [ ] dev3 style dev2 with blueprintjs and glamorous
+
+**day 3:**
+- [ ] react lifecycle
