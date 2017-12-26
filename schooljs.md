@@ -27,3 +27,5 @@
 * a browser (chrome, firefox)
 
 > run `node --version` and `git --version` in the console
+
+## day 1
