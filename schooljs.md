@@ -2,6 +2,8 @@
 <!-- SUBTITLE: All about training sessions -->
 
 # session of 2018-01
+## overview
+
 **Attendees:**
 * Thomas Tridon (RP) - thomas.tridon@redpelicans.com
 * Mike Velluet (RP) - mike.velluet@redpelicans.com
@@ -28,4 +30,13 @@
 
 > run `node --version` and `git --version` in the console
 
-### day 1
+## schedule
+
+**day 1 (4/1):**
+* [ ] [client introduction](https://docs.google.com/presentation/d/1nkelpLG-BikiiHWvfkUj7zxZDdMBx0pyCOhVnqDZLXE)
+* [ ] [git introduction](http://nvie.com/posts/a-successful-git-branching-model/)
+* [ ] [boilerplate introduction](https://github.com/redpelicans/mission-impossible)
+* [ ] setup boilerplate
+* [ ] read react documentation
+* [ ] read [react-elements-vs-react-components](https://medium.freecodecamp.org/react-elements-vs-react-components-fdc776705880)
+* [ ] read [es6 introduction](https://ponyfoo.com/articles/es6)
