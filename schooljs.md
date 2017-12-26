@@ -22,7 +22,7 @@
 
 **Technical pre-requisites:**
 * ideally a unix OS, if windows then install [babun](http://babun.github.io/) to have a proper shell
-* nodejs and git installed
+* nodejs and git
 * an editor (atom, vim, sublime text)
 * a browser (chrome, firefox)
 
