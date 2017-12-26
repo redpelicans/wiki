@@ -43,9 +43,10 @@
 
 **day 2:**
 - [ ] dev1 list of missions (stateless, no props)
-- [ ] react properties, rest parameter, reat `PropTypes`
+- [ ] react properties, rest parameter, react `PropTypes`
 - [ ] dev2 update dev1 with props, `PropTypes` and data from a store
-- [ ] how to style in react (css stylesheet, react css, css modules, [glamorous](https://glamorous.rocks/)), explain autoprefixer, introduce [blueprintjs](http://blueprintjs.com/docs/)
+- [ ] how to style in react:
+  - css stylesheet, react css, css modules, [glamorous](https://glamorous.rocks/)), explain autoprefixer, introduce [blueprintjs](http://blueprintjs.com/docs/)
 - [ ] dev3 style dev2 with blueprintjs and glamorous
 
 **day 3:**
