@@ -5,9 +5,9 @@
 ## overview
 
 **Attendees:**
-* Thomas Tridon (RP) - thomas.tridon@redpelicans.com
-* Mike Velluet (RP) - mike.velluet@redpelicans.com
-* Arnaud Le Floch (RP) - arnaud.lefloch@redpelicans.com
+* Thomas Tridon (RP) - thomas.tridon@redpelicans.com - ttridon@gmail.com
+* Mike Velluet (RP) - mike.velluet@redpelicans.com - mike.velluet@gmail.com
+* Arnaud Le Floch (RP) - arnaud.lefloch@redpelicans.com - a.lefloch2491@gmail.com
 * Mahmoud chebbou - mahmoud.chebbou@nearteam.fr
 
 > [ ] create google accounts for RP attendees
