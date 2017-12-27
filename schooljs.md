@@ -14,8 +14,7 @@
 
 **General information:**
 * start on the 4th of January 2018
-* end on the 28th of February 2018
-* normal day schedule: 9-12 14-18
+* normal day schedule: conf calls 9h30 and 14h30 on hangout
 
 **Soft pre-requisites:**
 * internet connection good enough for video calls
@@ -25,7 +24,7 @@
 **Technical pre-requisites:**
 * ideally a unix OS, if windows then install [babun](http://babun.github.io/) to have a proper shell
 * nodejs and git
-* an editor (atom, vim, sublime text)
+* an editor (atom, vim, sublime text, vscode)
 * a browser (chrome, firefox)
 
 > run `node --version` and `git --version` in the console
