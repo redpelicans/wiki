@@ -166,7 +166,7 @@ add mission and forms
 - [ ] do https://github.com/eric-basley/hocAndCo (branches vanilla, hoc, child, cat, motion)
 
 **day 21:**
-- [ ] marvel
+- [ ] test marvel
 
 **day 22 (friday 2/2):**
 wrap up
