@@ -163,7 +163,7 @@ add mission and forms
 > FAC
 
 - [ ] read [FAC introduction](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce)
-- [ ] do https://github.com/eric-basley/hocAndCo
+- [ ] do https://github.com/eric-basley/hocAndCo (branches vanilla, hoc, child, cat, motion)
 
 **day 21:**
 - [ ] marvel
