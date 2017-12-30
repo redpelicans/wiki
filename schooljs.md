@@ -53,6 +53,72 @@
 - [ ] dev3 style dev2 with blueprintjs and glamorous
 
 **day 3:**
+- [ ] [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [ ] [css-grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [ ] conception of UI (declarative way)
+- [ ] dev4 implement missions page (layout)
+- [ ] introduce composability (header with children)
+
+**day 4:**
 - [ ] read [es6 introduction](https://ponyfoo.com/articles/es6)
-- [ ] react lifecycle
-- [ ] dev4 play with react lifecycle
+- [ ] [react lifecycle](https://reactjs.org/docs/react-component.html#the-component-lifecycle)
+- [ ] dev5 play with react lifecycle ([timer](https://reactjs.org/docs/state-and-lifecycle.html))
+
+**day 5 (wednesday 10/1):**
+> UI tests with Eric (jest, snapshots, travis)
+
+**day 6:**
+- [ ] [flux introduction](https://facebook.github.io/flux/docs/in-depth-overview.html#content)
+- [ ] conception of flows (flow scheme)
+- [ ] es6 function composition syntax
+- [ ] dev6 flux implementation (with delete mission)
+
+**day 7:**
+- [ ] read [smart-vs-dumb-components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
+- [ ] introduce HOC
+- [ ] introduce React context
+- [ ] dev7 refine dev6 with HOC and context
+- [ ] dev8 use state for UI data (hover on mission to show actions)
+
+**day 8:**
+- [ ] [redux training](https://egghead.io/courses/getting-started-with-redux)
+- [ ] dev9 redux migration
+
+**day 9:**
+- [ ] introduce [reselect](https://github.com/reactjs/reselect)
+- [ ] dev10 implement spotlight and sorts
+
+**day 10 (wednesday 17/1):**
+> Unit tests with Eric (reducers, actions, selectors)
+
+**day 11:**
+- [ ] read [what-is-functional-programming](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
+- [ ] dev11 rewrite selectors with [ramda](http://ramdajs.com/)
+
+**day 12:**
+- [ ] read [the-promise-of-a-burger-party](https://kosamari.com/notes/the-promise-of-a-burger-party)
+- [ ] do [promise-it-wont-hurt](https://github.com/stevekane/promise-it-wont-hurt)
+
+**day 13:**
+- [ ] introduction to client/server, http verbs, restful
+- [ ] read [fetch API](https://davidwalsh.name/fetch)
+- [ ] dev11 use redux-thunk to fetch missions (fetching, success, error) and delete a mission
+
+**day 13:**
+- [ ] [redux middleware](https://redux.js.org/docs/advanced/Middleware.html)
+- [ ] dev12 implement a middleware to block blacklisted actions
+
+**day 14:**
+- [ ] read [FAC introduction](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce)
+- [ ] dev8 implement mouse HOC and FAC
+
+**day 15 (wednesday 24/1):**
+> async tests with Eric (fetchMock)
+
+**day 16:**
+**day 17:**
+**day 18:**
+**day 19:**
+**day 20 (wednesday 31/1):**
+**day 21:**
+**day 22 (friday 2/2):**
