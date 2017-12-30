@@ -163,7 +163,7 @@ add mission and forms
 > FAC
 
 - [ ] read [FAC introduction](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce)
-- [ ] dev8 implement mouse HOC and FAC
+- [ ] do https://github.com/eric-basley/hocAndCo
 
 **day 21:**
 - [ ] marvel
