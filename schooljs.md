@@ -36,7 +36,7 @@
 - [ ] [git introduction](http://nvie.com/posts/a-successful-git-branching-model/)
 - [ ] [boilerplate introduction](https://github.com/redpelicans/mission-impossible)
 - [ ] setup boilerplate (single repository with a dev branch for each attendee)
-- [ ] read [react documentation](https://reactjs.org/docs/hello-world.html)
+- [ ] read [react documentation](https://reactjs.org/docs/hello-world.html) (quick start)
 - [ ] read [react-elements-vs-react-components](https://medium.freecodecamp.org/react-elements-vs-react-components-fdc776705880)
 
 **day 2:**
