@@ -53,6 +53,7 @@
   - css modules
   - [glamorous](https://github.com/paypal/glamorous)
   - [blueprintjs](http://blueprintjs.com/docs/)
+  - [classnames](https://github.com/JedWatson/classnames)
 - [ ] explain autoprefixer
 - [ ] dev3 style dev2 with blueprintjs and glamorous
 
