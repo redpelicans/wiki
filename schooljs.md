@@ -51,7 +51,7 @@
   - css stylesheet
   - react css
   - css modules
-  - [glamorous](https://glamorous.rocks/)
+  - [glamorous](https://github.com/paypal/glamorous)
   - [blueprintjs](http://blueprintjs.com/docs/)
 - [ ] explain autoprefixer
 - [ ] dev3 style dev2 with blueprintjs and glamorous
