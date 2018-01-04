@@ -11,6 +11,7 @@
 * Mahmoud chebbou - mahmoud.chebbou@nearteam.fr
 
 > [ ] create google accounts for RP attendees
+> [ ] invite to schoolJS slack chan
 
 **General information:**
 * start on the 4th of January 2018
@@ -37,13 +38,14 @@
 - [x] [client introduction](https://docs.google.com/presentation/d/1nkelpLG-BikiiHWvfkUj7zxZDdMBx0pyCOhVnqDZLXE)
 - [x] [git introduction](http://nvie.com/posts/a-successful-git-branching-model/)
 - [x] [boilerplate introduction](https://github.com/redpelicans/mission-impossible), [semver](https://semver.org/)
-- [ ] setup boilerplate (single repository with a dev branch for each attendee)
+- [x] setup boilerplate (single repository with a dev branch for each attendee)
 - [ ] read [react documentation](https://reactjs.org/docs/hello-world.html) (quick start)
 - [ ] read [react-elements-vs-react-components](https://medium.freecodecamp.org/react-elements-vs-react-components-fdc776705880)
 
 **day 2:**
 > props, proptypes, styling
 
+- [ ] ask questions on day 1 readings
 - [ ] dev1 list of missions (stateless, no props)
 - [ ] react properties, rest parameter, react `PropTypes`
 - [ ] dev2 update dev1 with props, `PropTypes` and data from a store
