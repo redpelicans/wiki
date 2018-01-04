@@ -34,9 +34,9 @@
 **day 1 (4/1):**
 > client, git, boilerplate, react, components vs elements
 
-- [ ] [client introduction](https://docs.google.com/presentation/d/1nkelpLG-BikiiHWvfkUj7zxZDdMBx0pyCOhVnqDZLXE)
-- [ ] [git introduction](http://nvie.com/posts/a-successful-git-branching-model/)
-- [ ] [boilerplate introduction](https://github.com/redpelicans/mission-impossible)
+- [x] [client introduction](https://docs.google.com/presentation/d/1nkelpLG-BikiiHWvfkUj7zxZDdMBx0pyCOhVnqDZLXE)
+- [x] [git introduction](http://nvie.com/posts/a-successful-git-branching-model/)
+- [x] [boilerplate introduction](https://github.com/redpelicans/mission-impossible), [semver](https://semver.org/)
 - [ ] setup boilerplate (single repository with a dev branch for each attendee)
 - [ ] read [react documentation](https://reactjs.org/docs/hello-world.html) (quick start)
 - [ ] read [react-elements-vs-react-components](https://medium.freecodecamp.org/react-elements-vs-react-components-fdc776705880)
