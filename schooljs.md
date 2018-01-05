@@ -39,14 +39,18 @@
 - [x] [git introduction](http://nvie.com/posts/a-successful-git-branching-model/)
 - [x] [boilerplate introduction](https://github.com/redpelicans/mission-impossible), [semver](https://semver.org/)
 - [x] setup boilerplate (single repository with a dev branch for each attendee)
-- [ ] read [react documentation](https://reactjs.org/docs/hello-world.html) (quick start)
-- [ ] read [react-elements-vs-react-components](https://medium.freecodecamp.org/react-elements-vs-react-components-fdc776705880)
+- [x] read [react documentation](https://reactjs.org/docs/hello-world.html) (quick start)
+- [x] read [react-elements-vs-react-components](https://medium.freecodecamp.org/react-elements-vs-react-components-fdc776705880)
 
 **day 2:**
 > props, proptypes, styling
 
-- [ ] ask questions on day 1 readings
+- [x] ask questions on day 1 readings:
+  - difference between `React.Element` and `React.Component`
+  - difference between state and props
+  - how to update the state?
 - [ ] dev1 list of missions (stateless, no props)
+- [ ] [es6-import-export](https://hackernoon.com/import-export-default-require-commandjs-javascript-nodejs-es6-vs-cheatsheet-different-tutorial-example-5a321738b50f)
 - [ ] react properties, rest parameter, react `PropTypes`
 - [ ] dev2 update dev1 with props, `PropTypes` and data from a store
 - [ ] how to style in react:
