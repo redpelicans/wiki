@@ -51,12 +51,12 @@
   - how to update the state?
 - [x] [dev1](https://github.com/redpelicans/mission-impossible/commit/8d32357eba786f3ad9042180d24c3976e0e77570) list of missions (stateless, no props)
 - [x] [es6-import-export](https://hackernoon.com/import-export-default-require-commandjs-javascript-nodejs-es6-vs-cheatsheet-different-tutorial-example-5a321738b50f)
-- [ ] [React.Fragment](https://reactjs.org/docs/fragments.html)
-- [ ] react properties, rest parameter, react `PropTypes`
+- [x] [React.Fragment](https://reactjs.org/docs/fragments.html)
+- [x] react properties, rest parameter, react `PropTypes`
   - [typechecking-with-proptypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
   - [rest-parameter](http://es6-features.org/#RestParameter)
 - [ ] dev2 update dev1 with props, `PropTypes` and data from a store
-- [ ] ways to style in react:
+- [x] ways to style in react:
   - css stylesheets
     - import
     - careful to import order
@@ -69,7 +69,7 @@
   - [css-modules](https://github.com/css-modules/css-modules) (scope classic css)
   - [glamorous](https://github.com/paypal/glamorous)
   - [blueprintjs](http://blueprintjs.com/docs/)
-- [ ] [autoprefixer](https://github.com/postcss/autoprefixer)
+- [x] [autoprefixer](https://github.com/postcss/autoprefixer)
 - [ ] dev3 style dev2 with blueprintjs and glamorous
 
 **day 3:**
