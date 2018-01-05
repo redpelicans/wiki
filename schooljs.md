@@ -56,14 +56,20 @@
   - [typechecking-with-proptypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
   - [rest-parameter](http://es6-features.org/#RestParameter)
 - [ ] dev2 update dev1 with props, `PropTypes` and data from a store
-- [ ] how to style in react:
-  - css stylesheet
-  - react css
-  - css modules
+- [ ] ways to style in react:
+  - css stylesheets
+    - import
+    - careful to import order
+    - className attribute
+    - [classnames](https://github.com/JedWatson/classnames)
+  - react style:
+    - style attribute
+    - scoped
+    - just JS
+  - [css-modules](https://github.com/css-modules/css-modules) (scope classic css)
   - [glamorous](https://github.com/paypal/glamorous)
   - [blueprintjs](http://blueprintjs.com/docs/)
-  - [classnames](https://github.com/JedWatson/classnames)
-- [ ] explain autoprefixer
+- [ ] [autoprefixer](https://github.com/postcss/autoprefixer)
 - [ ] dev3 style dev2 with blueprintjs and glamorous
 
 **day 3:**
