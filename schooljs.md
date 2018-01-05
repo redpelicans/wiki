@@ -45,13 +45,15 @@
 **day 2:**
 > props, proptypes, styling
 
-- [x] ask questions on day 1 readings:
+- [x] questions on day 1 readings:
   - difference between `React.Element` and `React.Component`
   - difference between state and props
   - how to update the state?
-- [ ] dev1 list of missions (stateless, no props)
-- [ ] [es6-import-export](https://hackernoon.com/import-export-default-require-commandjs-javascript-nodejs-es6-vs-cheatsheet-different-tutorial-example-5a321738b50f)
+- [x] dev1 list of missions (stateless, no props)
+- [x] [es6-import-export](https://hackernoon.com/import-export-default-require-commandjs-javascript-nodejs-es6-vs-cheatsheet-different-tutorial-example-5a321738b50f)
 - [ ] react properties, rest parameter, react `PropTypes`
+  - [typechecking-with-proptypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
+  - [rest-parameter](http://es6-features.org/#RestParameter)
 - [ ] dev2 update dev1 with props, `PropTypes` and data from a store
 - [ ] how to style in react:
   - css stylesheet
@@ -66,6 +68,11 @@
 **day 3:**
 > flexbox, cssgrid, composability of react components
 
+- [ ] questions on day 2 readings:
+  - named export
+  - wild as import
+  - rest parameter
+  - destructuring props
 - [ ] [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [ ] [css-grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [ ] conception of UI (declarative way)
