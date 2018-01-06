@@ -60,7 +60,7 @@
   - css stylesheets (webpack import, className attribute)
   - react style (style attribute, scoped, just JS)
   - [classnames](https://github.com/JedWatson/classnames)
-  - [css-modules](https://github.com/css-modules/css-modules) (scope classic css)
+  - [css-modules](https://github.com/css-modules/css-modules)
   - [glamorous](https://github.com/paypal/glamorous)
   - [blueprintjs](http://blueprintjs.com/docs/)
 - [x] [autoprefixer](https://github.com/postcss/autoprefixer)
