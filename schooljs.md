@@ -55,26 +55,22 @@
 - [x] react properties, rest parameter, react `PropTypes`
   - [typechecking-with-proptypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
   - [rest-parameter](http://es6-features.org/#RestParameter)
-- [ ] dev2 update dev1 with props, `PropTypes` and data from a store
+- [ ] ~~dev2 update dev1 with props, `PropTypes` and data from a store~~
 - [x] ways to style in react:
-  - css stylesheets
-    - import
-    - careful to import order
-    - className attribute
-    - [classnames](https://github.com/JedWatson/classnames)
-  - react style:
-    - style attribute
-    - scoped
-    - just JS
+  - css stylesheets (webpack import, className attribute)
+  - react style (style attribute, scoped, just JS)
+  - [classnames](https://github.com/JedWatson/classnames)
   - [css-modules](https://github.com/css-modules/css-modules) (scope classic css)
   - [glamorous](https://github.com/paypal/glamorous)
   - [blueprintjs](http://blueprintjs.com/docs/)
 - [x] [autoprefixer](https://github.com/postcss/autoprefixer)
-- [ ] dev3 style dev2 with blueprintjs and glamorous
+- [ ] ~~dev3 style dev2 with blueprintjs and glamorous~~
 
 **day 3:**
 > flexbox, cssgrid, composability of react components
 
+- [ ] dev2 update dev1 with props, `PropTypes` and data from a store
+- [ ] dev3 style dev2 with blueprintjs and glamorous
 - [ ] questions on day 2 readings:
   - named export
   - wild as import
