@@ -71,6 +71,7 @@
 
 - [ ] dev2 update dev1 with props, `PropTypes` and data from a store
 - [ ] dev3 style dev2 with blueprintjs and glamorous
+- [ ] [es6-string-interpolation](http://es6-features.org/#StringInterpolation)
 - [ ] questions on day 2 readings:
   - named export
   - wild as import
@@ -80,7 +81,7 @@
 - [ ] [css-grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [ ] conception of UI (declarative way)
 - [ ] dev4 implement missions page (layout)
-- [ ] introduce composability (header with children)
+- [ ] introduce composability (header with children, generic card for mission)
 
 **day 4:**
 > es6, react lifecycle
