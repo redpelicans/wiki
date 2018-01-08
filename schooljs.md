@@ -50,7 +50,10 @@
   - difference between state and props
   - how to update the state?
 - [x] [dev1](https://github.com/redpelicans/mission-impossible/commit/8d32357eba786f3ad9042180d24c3976e0e77570) list of missions (stateless, no props)
-- [x] [es6-import-export](https://hackernoon.com/import-export-default-require-commandjs-javascript-nodejs-es6-vs-cheatsheet-different-tutorial-example-5a321738b50f)
+- [x] es6-import-export
+  - [cheatsheet](https://hackernoon.com/import-export-default-require-commandjs-javascript-nodejs-es6-vs-cheatsheet-different-tutorial-example-5a321738b50f)
+  - [value-import-export](http://es6-features.org/#ValueExportImport)
+  - [default-and-wildcard](http://es6-features.org/#DefaultWildcard)
 - [x] [React.Fragment](https://reactjs.org/docs/fragments.html)
 - [x] react properties, rest parameter, react `PropTypes`
   - [typechecking-with-proptypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
