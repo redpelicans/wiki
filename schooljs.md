@@ -72,23 +72,26 @@
 **day 3:**
 > flexbox, cssgrid, composability of react components
 
-- [ ] dev2 update dev1 with props, `PropTypes` and data from a store
-- [ ] dev3 style dev2 with blueprintjs and glamorous
-- [ ] [es6-string-interpolation](http://es6-features.org/#StringInterpolation)
-- [ ] questions on day 2 readings:
+- [x] dev2 update dev1 with props, `PropTypes` and data from a store
+- [x] dev3 style dev2 with blueprintjs and glamorous
+- [x] [es6-string-interpolation](http://es6-features.org/#StringInterpolation)
+- [x] questions on day 2 readings:
   - named export
   - wild as import
   - rest parameter
   - destructuring props
-- [ ] [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [ ] [css-grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-- [ ] conception of UI (declarative way)
-- [ ] dev4 implement missions page (layout)
-- [ ] introduce composability (header with children, generic card for mission)
+- [x] [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [x] [css-grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [x] conception of UI (declarative way, [mockup](https://docs.google.com/drawings/d/1Y5pBfaK2LEojsqKrj9JTdB8R-0HZk6AUcP6G-uXrf3Q/edit?usp=sharing))
+- [x] introduce composability (header with children, generic card for mission)
+- [ ] dev4 implement missions page (layout and composed header)
 
 **day 4:**
 > es6, react lifecycle
 
+- [ ] questions:
+  - es6 string interpolation
+  - flexbox wrapped layout
 - [ ] read [es6 introduction](https://ponyfoo.com/articles/es6)
 - [ ] read [react lifecycle](https://reactjs.org/docs/react-component.html#the-component-lifecycle)
 - [ ] dev5 play with react lifecycle ([timer](https://reactjs.org/docs/state-and-lifecycle.html))
@@ -166,7 +169,8 @@
 - [ ] dev12 implement a middleware to block blacklisted actions
 
 **day 17:**
-add mission and forms
+- [ ] add mission and forms
+- [ ] [css-grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 **day 18:**
 add mission and forms
