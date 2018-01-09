@@ -70,7 +70,7 @@
 - [ ] ~~dev3 style dev2 with blueprintjs and glamorous~~
 
 **day 3:**
-> flexbox, cssgrid, composability of react components
+> flexbox, composability of react components
 
 - [x] dev2 update dev1 with props, `PropTypes` and data from a store
 - [ ] ~~dev3 style dev2 with blueprintjs and glamorous~~
