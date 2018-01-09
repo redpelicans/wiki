@@ -89,24 +89,25 @@
 **day 4:**
 > es6, react lifecycle
 
-- [ ] [dev3](https://github.com/redpelicans/mission-impossible/commit/6176192c17b66455059b4c00a5f60f25b77371f9) style dev2 with blueprintjs and glamorous
-- [ ] [dev4](https://github.com/redpelicans/mission-impossible/commit/336e2eb3296ad8f52d23c1364c96617f747e93a8) implement missions page (layout and composed header)
+- [x] [dev3](https://github.com/redpelicans/mission-impossible/commit/6176192c17b66455059b4c00a5f60f25b77371f9) style dev2 with blueprintjs and glamorous
+- [x] [dev4](https://github.com/redpelicans/mission-impossible/commit/336e2eb3296ad8f52d23c1364c96617f747e93a8) implement missions page (layout and composed header)
 - [x] questions:
   - es6 string interpolation
   - flexbox wrapped centered layout
 - [x] pure function into class (React)
 - [ ] read [react lifecycle](https://reactjs.org/docs/react-component.html#the-component-lifecycle)
+- [ ] [es6-katas](http://es6katas.org/) (easy only: rest operator, destructuring, default parameters, modules, template strings)
 
 **day 5 (wednesday 10/1):**
 > es6, react lifecycle, UI tests (jest, snapshots, travis, coverage?)
 
+- [ ] checks: katas, travis errors, lifecycle read
 - [ ] questions:
   - @arnaud: what is the purpose of the virtualDOM?
   - @thomas: when React.Fragment is useful?
   - @mahmoud: how to do a default export, how to import everything named export of a module (wild)?
   - @mike: what is the role of React?
 - [ ] dev5 play with react lifecycle ([clock](https://openclassrooms.com/courses/build-web-apps-with-reactjs/build-a-ticking-clock-component), use props hooks only)
-- [ ] [es6-katas](http://es6katas.org/) (easy only: rest operator, destructuring, default parameters, modules, template strings)
 - [ ] read [es6 introduction](https://ponyfoo.com/articles/es6)
 
 **day 6:**
