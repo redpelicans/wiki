@@ -93,13 +93,16 @@
 - [ ] dev4 implement missions page (layout and composed header)
 - [ ] questions:
   - es6 string interpolation
-  - flexbox wrapped layout
-- [ ] read [es6 introduction](https://ponyfoo.com/articles/es6)
+  - flexbox wrapped centered layout
+- [ ] do [es6-katas](http://es6katas.org/) (easy only: rest operator, destructuring, default parameters, modules, template strings)
+- [ ] pure function into class (React)
 - [ ] read [react lifecycle](https://reactjs.org/docs/react-component.html#the-component-lifecycle)
-- [ ] dev5 play with react lifecycle ([timer](https://reactjs.org/docs/state-and-lifecycle.html))
 
 **day 5 (wednesday 10/1):**
 > UI tests with Eric (jest, snapshots, travis, coverage)
+
+- [ ] read [es6 introduction](https://ponyfoo.com/articles/es6)
+- [ ] dev5 play with react lifecycle ([timer](https://reactjs.org/docs/state-and-lifecycle.html))
 
 **day 6:**
 > flux
