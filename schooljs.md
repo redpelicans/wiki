@@ -73,7 +73,7 @@
 > flexbox, cssgrid, composability of react components
 
 - [x] dev2 update dev1 with props, `PropTypes` and data from a store
-- [x] dev3 style dev2 with blueprintjs and glamorous
+- [ ] ~~dev3 style dev2 with blueprintjs and glamorous~~
 - [x] [es6-string-interpolation](http://es6-features.org/#StringInterpolation)
 - [x] questions on day 2 readings:
   - named export
@@ -84,11 +84,13 @@
 - [x] [css-grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [x] conception of UI (declarative way, [mockup](https://docs.google.com/drawings/d/1Y5pBfaK2LEojsqKrj9JTdB8R-0HZk6AUcP6G-uXrf3Q/edit?usp=sharing))
 - [x] introduce composability (header with children, generic card for mission)
-- [ ] dev4 implement missions page (layout and composed header)
+- [ ] ~~dev4 implement missions page (layout and composed header)~~
 
 **day 4:**
 > es6, react lifecycle
 
+- [ ] dev3 style dev2 with blueprintjs and glamorous
+- [ ] dev4 implement missions page (layout and composed header)
 - [ ] questions:
   - es6 string interpolation
   - flexbox wrapped layout
