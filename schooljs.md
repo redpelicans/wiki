@@ -101,8 +101,11 @@
 **day 5 (wednesday 10/1):**
 > es6, react lifecycle, UI tests (jest, snapshots, travis, coverage?)
 
+- [x] test environnement (package.json, jest, jest.config.js, coverage), travis
+- [x] how to test functions (sync, async, Error management)
+- [x] how to test React component (shallow / mount, enzyme)
 - [ ] checks: katas, travis errors, lifecycle read
-- [ ] questions:
+- [x] questions:
   - @arnaud: what is the purpose of the virtualDOM?
   - @thomas: when React.Fragment is useful?
   - @mahmoud: how to do a default export, how to import everything named export of a module (wild)?
