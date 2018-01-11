@@ -95,28 +95,24 @@
   - es6 string interpolation
   - flexbox wrapped centered layout
 - [x] pure function into class (React)
-- [ ] read [react lifecycle](https://reactjs.org/docs/react-component.html#the-component-lifecycle)
-- [ ] [es6-katas](http://es6katas.org/) (easy only: rest operator, destructuring, default parameters, modules, template strings)
+- [x] read [react lifecycle](https://reactjs.org/docs/react-component.html#the-component-lifecycle)
+- [x] [es6-katas](http://es6katas.org/) (easy only: rest operator, destructuring, default parameters, modules, template strings)
 
 **day 5 (wednesday 10/1):**
 > es6, react lifecycle, UI tests (jest, snapshots, travis, coverage?)
 
 - [x] test environnement (package.json, jest, jest.config.js, coverage), travis
-- [x] how to test functions (sync, async, Error management)
-- [x] how to test React component (shallow / mount, enzyme)
-- [ ] checks: katas, travis errors, lifecycle read
+- [x] [dev5](https://github.com/redpelicans/mission-impossible/commit/9eac8c3634c35b3189a404c72b5754e265c60926) test React components (shallow / mount, enzyme) and functions (sync, async, Error handling)
 - [x] questions:
   - @arnaud: what is the purpose of the virtualDOM?
   - @thomas: when React.Fragment is useful?
   - @mahmoud: how to do a default export, how to import everything named export of a module (wild)?
   - @mike: what is the role of React?
-- [ ] dev5 play with react lifecycle ([clock](https://openclassrooms.com/courses/build-web-apps-with-reactjs/build-a-ticking-clock-component), use props hooks only)
-- [ ] read [es6 introduction](https://ponyfoo.com/articles/es6)
 
 **day 6:**
 > flux
 
-- [ ] read [flux introduction](https://facebook.github.io/flux/docs/in-depth-overview.html#content)
+- [x] read [flux introduction](https://facebook.github.io/flux/docs/in-depth-overview.html#content)
 - [ ] conception of flows (flow scheme)
 - [ ] es6 function composition syntax
 - [ ] dev6 flux implementation (with delete mission)
@@ -133,14 +129,16 @@
 **day 8:**
 > redux
 
+- [ ] dev9 play with react lifecycle ([clock](https://openclassrooms.com/courses/build-web-apps-with-reactjs/build-a-ticking-clock-component), use props hooks only)
+- [ ] read [es6 introduction](https://ponyfoo.com/articles/es6)
 - [ ] [redux training](https://egghead.io/courses/getting-started-with-redux)
-- [ ] dev9 redux migration
+- [ ] dev10 redux migration
 
 **day 9 (oecd call for tender 3pm):**
 > reselect
 
 - [ ] introduce [reselect](https://github.com/reactjs/reselect)
-- [ ] dev10 implement spotlight and sorts
+- [ ] dev11 implement spotlight and sorts
 - [ ] watch [event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
 **day 10 (wednesday 17/1):**
@@ -151,7 +149,7 @@
 
 - [ ] read [what-is-functional-programming](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
 - [ ] read [thinking-in-ramda](http://randycoulman.com/blog/categories/thinking-in-ramda/)
-- [ ] dev11 rewrite selectors with [ramda](http://ramdajs.com/)
+- [ ] dev12 rewrite selectors with [ramda](http://ramdajs.com/)
 - [ ] introduce curry with the add() sample
 
 **day 12:**
@@ -171,7 +169,7 @@
 
 - [ ] introduction to client/server, http verbs, restful
 - [ ] read [fetch API](https://davidwalsh.name/fetch)
-- [ ] dev11 use redux-thunk to fetch missions and delete a mission (fetching, success, error)
+- [ ] dev13 use redux-thunk to fetch missions and delete a mission (fetching, success, error)
 
 **day 15 (wednesday 24/1):**
 > async tests with Eric
@@ -180,7 +178,7 @@
 > redux midleware
 
 - [ ] [redux middleware](https://redux.js.org/docs/advanced/Middleware.html)
-- [ ] dev12 implement a middleware to block blacklisted actions
+- [ ] dev14 implement a middleware to block blacklisted actions
 
 **day 17:**
 - [ ] add mission and forms
