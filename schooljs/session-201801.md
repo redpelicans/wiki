@@ -121,6 +121,11 @@
 **day 7:**
 > HOC, react context, conception (smart vs dumb components, ui data in state)
 
+- [ ] questions:
+  - what is MVC?
+  - explain the flux flow?
+  - what are the key elements of flux?
+  - most important prop of a reducer?
 - [ ] read [smart-vs-dumb-components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 - [ ] introduce HOC
 - [ ] introduce React context
