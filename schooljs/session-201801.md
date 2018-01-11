@@ -1,4 +1,4 @@
-<!-- TITLE: Schooljs -->
+<!-- TITLE: session2018-01 -->
 <!-- SUBTITLE: All about training sessions -->
 
 # session of 2018-01
