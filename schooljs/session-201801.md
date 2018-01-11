@@ -115,7 +115,8 @@
 - [x] read [flux introduction](https://facebook.github.io/flux/docs/in-depth-overview.html#content)
 - [ ] conception of flows (flow scheme)
 - [ ] es6 function composition syntax
-- [ ] dev6 flux implementation (with delete mission)
+- [ ] dev6 flux implementation (peer programming with delete mission)
+- [ ] dev7 flux implementation (select mission, delete selected missions)
 
 **day 7:**
 > HOC, react context, conception (smart vs dumb components, ui data in state)
@@ -123,22 +124,22 @@
 - [ ] read [smart-vs-dumb-components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 - [ ] introduce HOC
 - [ ] introduce React context
-- [ ] dev7 refine dev6 with HOC and context
-- [ ] dev8 use state for UI data (hover on mission to show actions)
+- [ ] dev refine dev6 with HOC and context
+- [ ] dev use state for UI data (hover on mission to show actions)
 
 **day 8:**
 > redux
 
-- [ ] dev9 play with react lifecycle ([clock](https://openclassrooms.com/courses/build-web-apps-with-reactjs/build-a-ticking-clock-component), use props hooks only)
+- [ ] dev play with react lifecycle ([clock](https://openclassrooms.com/courses/build-web-apps-with-reactjs/build-a-ticking-clock-component), use props hooks only)
 - [ ] read [es6 introduction](https://ponyfoo.com/articles/es6)
 - [ ] [redux training](https://egghead.io/courses/getting-started-with-redux)
-- [ ] dev10 redux migration
+- [ ] dev redux migration
 
 **day 9 (oecd call for tender 3pm):**
 > reselect
 
 - [ ] introduce [reselect](https://github.com/reactjs/reselect)
-- [ ] dev11 implement spotlight and sorts
+- [ ] dev implement spotlight and sorts
 - [ ] watch [event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
 **day 10 (wednesday 17/1):**
@@ -169,7 +170,7 @@
 
 - [ ] introduction to client/server, http verbs, restful
 - [ ] read [fetch API](https://davidwalsh.name/fetch)
-- [ ] dev13 use redux-thunk to fetch missions and delete a mission (fetching, success, error)
+- [ ] dev use redux-thunk to fetch missions and delete a mission (fetching, success, error)
 
 **day 15 (wednesday 24/1):**
 > async tests with Eric
@@ -178,7 +179,7 @@
 > redux midleware
 
 - [ ] [redux middleware](https://redux.js.org/docs/advanced/Middleware.html)
-- [ ] dev14 implement a middleware to block blacklisted actions
+- [ ] dev implement a middleware to block blacklisted actions
 
 **day 17:**
 - [ ] add mission and forms
