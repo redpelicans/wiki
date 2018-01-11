@@ -91,3 +91,6 @@ $ git push -u origin hotfix
 #on github, click on the green button, compare, review or pull request, then click on create a pull request after checking if everything was right.
 #on github, click on merge pull request when reviewing is done.
 ```
+
+# Resources
+Git branching model : http://nvie.com/posts/a-successful-git-branching-model/
