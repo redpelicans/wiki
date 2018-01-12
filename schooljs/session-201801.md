@@ -120,23 +120,25 @@
 **day 7:**
 > HOC, react context, conception (smart vs dumb components, ui data in state)
 
-- [ ] questions:
+- [x] questions:
   - what is MVC?
   - explain the flux flow?
   - what are the key elements of flux?
   - most important prop of a reducer?
   - what is immutability?
-- [ ] [dev6](https://github.com/redpelicans/mission-impossible/commit/7a9f9119f6369145cd3a27bca70d6aa98a17c4df) flux implementation (peer programming with delete mission, toggle mission, delete selected missions)
-- [ ] read [redux-unit-testing-with-jest](https://hackernoon.com/redux-unit-testing-with-jest-f3a18f387f75)
-- [ ] read [smart-vs-dumb-components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
-- [ ] introduce HOC
-- [ ] introduce React context
-- [ ] dev refine dev6 with HOC and context
-- [ ] dev use state for UI data (hover on mission to show actions)
+- [x] [dev6](https://github.com/redpelicans/mission-impossible/commit/7a9f9119f6369145cd3a27bca70d6aa98a17c4df) flux implementation (peer programming with delete mission, toggle mission, delete selected missions)
+- [x] introduce HOC
+- [x] read [higher-order-components](https://reactjs.org/docs/higher-order-components.html)
+- [ ] ~~dev7 refine dev6 with Connect HOC, Logger HOC, Glamour HOC~~
 
 **day 8:**
 > redux, lifecycle
 
+- [ ] dev7 refine dev6 with Connect HOC, Logger HOC, Glamour HOC
+- [ ] introduce React context
+- [ ] dev refine dev6 with context
+- [ ] read [smart-vs-dumb-components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
+- [ ] dev use state for UI data (hover on mission to show actions)
 - [ ] dev play with react lifecycle ([clock](https://openclassrooms.com/courses/build-web-apps-with-reactjs/build-a-ticking-clock-component), use props hooks only)
 - [ ] read [es6 introduction](https://ponyfoo.com/articles/es6)
 - [ ] [redux training](https://egghead.io/courses/getting-started-with-redux)
