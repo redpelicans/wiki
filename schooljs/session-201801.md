@@ -126,7 +126,7 @@
   - what are the key elements of flux?
   - most important prop of a reducer?
   - what is immutability?
-- [ ] dev6 flux implementation (peer programming with delete mission, toggle mission, delete selected missions)
+- [ ] [dev6](https://github.com/redpelicans/mission-impossible/commit/7a9f9119f6369145cd3a27bca70d6aa98a17c4df) flux implementation (peer programming with delete mission, toggle mission, delete selected missions)
 - [ ] read [redux-unit-testing-with-jest](https://hackernoon.com/redux-unit-testing-with-jest-f3a18f387f75)
 - [ ] read [smart-vs-dumb-components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 - [ ] introduce HOC
