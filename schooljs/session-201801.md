@@ -84,6 +84,7 @@
 - [x] [css-grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [x] conception of UI (declarative way, [mockup](https://docs.google.com/drawings/d/1Y5pBfaK2LEojsqKrj9JTdB8R-0HZk6AUcP6G-uXrf3Q/edit?usp=sharing))
 - [x] introduce composability (header with children, generic card for mission)
+- [x] es6 function composition syntax
 - [ ] ~~dev4 implement missions page (layout and composed header)~~
 
 **day 4:**
@@ -113,10 +114,8 @@
 > flux
 
 - [x] read [flux introduction](https://facebook.github.io/flux/docs/in-depth-overview.html#content)
-- [ ] conception of flows (flow scheme)
-- [ ] es6 function composition syntax
-- [ ] dev6 flux implementation (peer programming with delete mission)
-- [ ] dev7 flux implementation (select mission, delete selected missions)
+- [x] conception of flows (flow scheme)
+- [ ] ~~dev6 flux implementation (peer programming with delete mission, toggle mission, delete selected missions)~~
 
 **day 7:**
 > HOC, react context, conception (smart vs dumb components, ui data in state)
@@ -126,6 +125,8 @@
   - explain the flux flow?
   - what are the key elements of flux?
   - most important prop of a reducer?
+  - what is immutability?
+- [ ] dev6 flux implementation (peer programming with delete mission, toggle mission, delete selected missions)
 - [ ] read [smart-vs-dumb-components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 - [ ] introduce HOC
 - [ ] introduce React context
@@ -133,7 +134,7 @@
 - [ ] dev use state for UI data (hover on mission to show actions)
 
 **day 8:**
-> redux
+> redux, lifecycle
 
 - [ ] dev play with react lifecycle ([clock](https://openclassrooms.com/courses/build-web-apps-with-reactjs/build-a-ticking-clock-component), use props hooks only)
 - [ ] read [es6 introduction](https://ponyfoo.com/articles/es6)
