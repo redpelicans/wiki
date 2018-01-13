@@ -142,7 +142,7 @@
 **day 8:**
 > redux, lifecycle
 
-- [ ] dev7 refine dev6 with Connect HOC, Logger HOC, Glamour HOC
+- [ ] [dev7](https://github.com/redpelicans/mission-impossible/commit/a1715c4a78c283f5d49b9b94376494ed8b92b669) refine dev6 with Connect HOC, Logger HOC, Glamour HOC
 - [ ] introduce React context
 - [ ] dev refine dev7 with context
 - [ ] read [smart-vs-dumb-components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
