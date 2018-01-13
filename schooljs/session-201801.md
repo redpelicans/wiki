@@ -32,6 +32,14 @@
 
 ## schedule
 
+**unplanned concept/tasks:**
+- async/await
+- react-router
+- avatar component (oneplus is nice)
+- login feature
+- media-query
+- react-motion and FAC
+
 **day 1 (4/1):**
 > client, git, boilerplate, react, components vs elements
 
@@ -136,7 +144,7 @@
 
 - [ ] dev7 refine dev6 with Connect HOC, Logger HOC, Glamour HOC
 - [ ] introduce React context
-- [ ] dev refine dev6 with context
+- [ ] dev refine dev7 with context
 - [ ] read [smart-vs-dumb-components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 - [ ] dev use state for UI data (hover on mission to show actions)
 - [ ] dev play with react lifecycle ([clock](https://openclassrooms.com/courses/build-web-apps-with-reactjs/build-a-ticking-clock-component), use props hooks only)
