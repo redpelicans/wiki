@@ -32,13 +32,14 @@
 
 ## schedule
 
-**unplanned concept/tasks:**
+**unplanned concept/tasks and dropped (uncheck) tasks:**
 - async/await
 - react-router
 - avatar component (oneplus is nice)
 - login feature
 - media-query
 - react-motion and FAC
+- [ ] dev play with react lifecycle ([clock](https://openclassrooms.com/courses/build-web-apps-with-reactjs/build-a-ticking-clock-component), use props hooks only)
 
 **day 1 (4/1):**
 > client, git, boilerplate, react, components vs elements
@@ -126,7 +127,7 @@
 - [ ] ~~dev6 flux implementation (peer programming with delete mission, toggle mission, delete selected missions)~~
 
 **day 7:**
-> HOC, react context, conception (smart vs dumb components, ui data in state)
+> HOC
 
 - [x] questions:
   - what is MVC?
@@ -140,27 +141,27 @@
 - [ ] ~~dev7 refine dev6 with Connect HOC, Logger HOC, Glamour HOC~~
 
 **day 8:**
-> redux, lifecycle
+> React context, React state for UI
 
 - [ ] [dev7](https://github.com/redpelicans/mission-impossible/commit/a1715c4a78c283f5d49b9b94376494ed8b92b669) refine dev6 with Connect HOC, Logger HOC, Glamour HOC
-- [ ] introduce React context
-- [ ] dev refine dev7 with context
+- [ ] [React context](https://reactjs.org/docs/context.html)
+- [ ] dev8 refine dev7 with context
 - [ ] read [smart-vs-dumb-components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
-- [ ] dev use state for UI data (hover on mission to show actions)
-- [ ] dev play with react lifecycle ([clock](https://openclassrooms.com/courses/build-web-apps-with-reactjs/build-a-ticking-clock-component), use props hooks only)
+- [ ] dev9 use state for UI data (hover on mission to show actions)
+
+**day 9 (oecd call for tender 3pm):**
+> redux
+
 - [ ] read [es6 introduction](https://ponyfoo.com/articles/es6)
 - [ ] [redux training](https://egghead.io/courses/getting-started-with-redux)
 - [ ] dev redux migration
 
-**day 9 (oecd call for tender 3pm):**
+**day 10 (wednesday 17/1):**
 > reselect
 
 - [ ] introduce [reselect](https://github.com/reactjs/reselect)
 - [ ] dev implement spotlight and sorts
 - [ ] watch [event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
-
-**day 10 (wednesday 17/1):**
-> Unit tests with Eric (reducers, actions, selectors)
 
 **day 11:**
 > FP
