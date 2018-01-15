@@ -143,6 +143,9 @@
 **day 8:**
 > React context, React state for UI
 
+- [ ] questions:
+  - why wirtting tests? (catch bugs before they happen, executable documentation, save time, push to write better code)
+  - nature of a HOC, some usecases?
 - [ ] [dev7](https://github.com/redpelicans/mission-impossible/commit/a1715c4a78c283f5d49b9b94376494ed8b92b669) refine dev6 with Connect HOC, Logger HOC, Glamour HOC
 - [ ] [React context](https://reactjs.org/docs/context.html)
 - [ ] dev8 refine dev7 with context
