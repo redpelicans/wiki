@@ -155,13 +155,14 @@
 **day 9 (oecd call for tender 3pm):**
 > redux and middleware
 
-- [ ] questions:
+- [x] questions:
   - what is the role of the Provider?
   - what is the role of connect?
   - what is the store?
-- [ ] dev redux migration
+  - what is encapsulation?
+- [ ] dev10 redux migration
+- [ ] dev11 implement a middleware to block blacklisted actions
 - [ ] [redux middleware](https://redux.js.org/docs/advanced/Middleware.html)
-- [ ] dev implement a middleware to block blacklisted actions
 - [ ] read [smart-vs-dumb-components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 - [ ] [redux training](https://egghead.io/courses/getting-started-with-redux)
 
@@ -170,6 +171,7 @@
 
 - [ ] introduce [reselect](https://github.com/reactjs/reselect)
 - [ ] dev implement spotlight and sorts
+- [ ] read [computing-derivated-data](https://redux.js.org/docs/recipes/ComputingDerivedData.html)
 
 **day 11:**
 > FP
