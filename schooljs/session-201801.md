@@ -113,6 +113,7 @@
 
 - [x] test environnement (package.json, jest, jest.config.js, coverage), travis
 - [x] [dev5](https://github.com/redpelicans/mission-impossible/commit/9eac8c3634c35b3189a404c72b5754e265c60926) test React components (shallow / mount, enzyme) and functions (sync, async, Error handling)
+- [x] introduce curry with the add() sample
 - [x] questions:
   - @arnaud: what is the purpose of the virtualDOM?
   - @thomas: when React.Fragment is useful?
@@ -161,25 +162,24 @@
   - what is the store?
   - what is encapsulation?
 - [ ] dev10 redux migration
-- [ ] dev11 implement a middleware to block blacklisted actions
-- [ ] [redux middleware](https://redux.js.org/docs/advanced/Middleware.html)
-- [ ] read [smart-vs-dumb-components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
-- [ ] [redux training](https://egghead.io/courses/getting-started-with-redux)
+- [ ] dev11 implement 2 middlewares (logger and firewall) and put them in action
+- [x] [redux middleware](https://redux.js.org/docs/advanced/Middleware.html)
+- [x] read [smart-vs-dumb-components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
+- [x] [redux training](https://egghead.io/courses/getting-started-with-redux)
 
 **day 10 (wednesday 17/1):**
+> FP
+
+- [ ] read [what-is-functional-programming](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
+- [ ] read [thinking-in-ramda](http://randycoulman.com/blog/categories/thinking-in-ramda/)
+- [ ] play with [ramda](http://ramdajs.com/)
+
+**day 11:**
 > reselect
 
 - [ ] introduce [reselect](https://github.com/reactjs/reselect)
 - [ ] dev implement spotlight and sorts
 - [ ] read [computing-derivated-data](https://redux.js.org/docs/recipes/ComputingDerivedData.html)
-
-**day 11:**
-> FP
-
-- [ ] read [what-is-functional-programming](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
-- [ ] read [thinking-in-ramda](http://randycoulman.com/blog/categories/thinking-in-ramda/)
-- [ ] dev12 rewrite selectors with [ramda](http://ramdajs.com/)
-- [ ] introduce curry with the add() sample
 
 **day 12:**
 > FP, promise
