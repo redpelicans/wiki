@@ -146,26 +146,30 @@
 - [x] questions:
   - why writing tests? (catch bugs before they happen, executable documentation, save time, push to write better code)
   - nature of a HOC, some usecases?
-- [ ] [dev7](https://github.com/redpelicans/mission-impossible/commit/a1715c4a78c283f5d49b9b94376494ed8b92b669) refine dev6 with Connect HOC, Logger HOC, Glamour HOC
+- [x] [dev7](https://github.com/redpelicans/mission-impossible/commit/a1715c4a78c283f5d49b9b94376494ed8b92b669) refine dev6 with Connect HOC, Logger HOC, Glamour HOC
 - [x] read [react-context](https://reactjs.org/docs/context.html)
-- [ ] dev8 refine dev7 with context
+- [x] dev8 refine dev7 with context
 - [x] read [react-events](https://reactjs.org/docs/events.html) and [handling-events](https://reactjs.org/docs/handling-events.html)
-- [ ] dev9 use state for UI data (hover on mission to show actions)
+- [x] dev9 use state for UI data (hover on mission to show actions)
 
 **day 9 (oecd call for tender 3pm):**
-> redux
+> redux and middleware
 
-- [ ] read [smart-vs-dumb-components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
-- [ ] read [es6 introduction](https://ponyfoo.com/articles/es6)
-- [ ] [redux training](https://egghead.io/courses/getting-started-with-redux)
+- [ ] questions:
+  - what is the role of the Provider?
+  - what is the role of connect?
+  - what is the store?
 - [ ] dev redux migration
+- [ ] [redux middleware](https://redux.js.org/docs/advanced/Middleware.html)
+- [ ] dev implement a middleware to block blacklisted actions
+- [ ] read [smart-vs-dumb-components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
+- [ ] [redux training](https://egghead.io/courses/getting-started-with-redux)
 
 **day 10 (wednesday 17/1):**
 > reselect
 
 - [ ] introduce [reselect](https://github.com/reactjs/reselect)
 - [ ] dev implement spotlight and sorts
-- [ ] watch [event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
 **day 11:**
 > FP
@@ -198,10 +202,10 @@
 > async tests with Eric
 
 **day 16:**
-> redux midleware
+> ?
 
-- [ ] [redux middleware](https://redux.js.org/docs/advanced/Middleware.html)
-- [ ] dev implement a middleware to block blacklisted actions
+- [ ] read [es6 introduction](https://ponyfoo.com/articles/es6)
+- [ ] watch [event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
 **day 17:**
 - [ ] add mission and forms
