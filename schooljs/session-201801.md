@@ -162,7 +162,7 @@
   - what is the store?
   - what is encapsulation?
 - [ ] dev10 redux migration
-- [ ] dev11 implement 2 middlewares (logger and firewall) and put them in action
+- [x] dev11 implement 2 middlewares (logger and firewall) and put them in action
 - [x] [redux middleware](https://redux.js.org/docs/advanced/Middleware.html)
 - [x] read [smart-vs-dumb-components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 - [x] [redux training](https://egghead.io/courses/getting-started-with-redux)
@@ -173,6 +173,8 @@
 - [ ] read [what-is-functional-programming](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
 - [ ] read [thinking-in-ramda](http://randycoulman.com/blog/categories/thinking-in-ramda/)
 - [ ] play with [ramda](http://ramdajs.com/)
+- [x] tutorial + exercices (https://bitbucket.org/redpelicans/fptraining)
+
 
 **day 11:**
 > reselect
