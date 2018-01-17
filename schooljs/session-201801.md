@@ -184,9 +184,8 @@
 - [ ] read [computing-derivated-data](https://redux.js.org/docs/recipes/ComputingDerivedData.html)
 
 **day 12:**
-> FP, promise
+> promise
 
-- [ ] FP test with https://bitbucket.org/redpelicans/fptraining
 - [ ] read [the-promise-of-a-burger-party](https://kosamari.com/notes/the-promise-of-a-burger-party)
 - [ ] do [promise-it-wont-hurt](https://github.com/stevekane/promise-it-wont-hurt)
 
