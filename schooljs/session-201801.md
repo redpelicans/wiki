@@ -161,8 +161,8 @@
   - what is the role of connect?
   - what is the store?
   - what is encapsulation?
-- [ ] dev10 redux migration
-- [x] dev11 implement 2 middlewares (logger and firewall) and put them in action
+- [x] [dev10](https://github.com/redpelicans/mission-impossible/commit/4c80a35edaf279d2e1f4a1b0cbb87cc77a601e02) redux migration
+- [x] [dev11](https://github.com/redpelicans/mission-impossible/commit/5b589455e60d19a9a29081254872317bb86d7a95) implement 2 middlewares (logger and firewall) and put them in action
 - [x] [redux middleware](https://redux.js.org/docs/advanced/Middleware.html)
 - [x] read [smart-vs-dumb-components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 - [x] [redux training](https://egghead.io/courses/getting-started-with-redux)
@@ -172,20 +172,27 @@
 
 - [ ] read [what-is-functional-programming](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
 - [ ] read [thinking-in-ramda](http://randycoulman.com/blog/categories/thinking-in-ramda/)
-- [ ] play with [ramda](http://ramdajs.com/)
-- [x] tutorial + exercices (https://bitbucket.org/redpelicans/fptraining)
-
+- [x] read [introducing-ramda](http://buzzdecafe.github.io/code/2014/05/16/introducing-ramda)
+- [x] read [why-ramda](http://fr.umio.us/why-ramda/)
+- [x] watch [undercore-is-doing-wrong](https://www.youtube.com/watch?v=m3svKOdZijA&app=desktop)
+- [x] tutorial + exercices (https://bitbucket.org/redpelicans/fptraining) with [ramda](http://ramdajs.com/)
 
 **day 11:**
 > reselect
 
+- [x] questions:
+  - what is ramda?
+  - what is a pure function?
 - [ ] introduce [reselect](https://github.com/reactjs/reselect)
-- [ ] dev implement spotlight and sorts
+- [ ] dev inject relationshios (people and companies) in missions and implement spotlight and sorts
 - [ ] read [computing-derivated-data](https://redux.js.org/docs/recipes/ComputingDerivedData.html)
 
 **day 12:**
 > promise
 
+- [ ] questions:
+	- what is a pure function?
+	- what is currying and partial?
 - [ ] read [the-promise-of-a-burger-party](https://kosamari.com/notes/the-promise-of-a-burger-party)
 - [ ] do [promise-it-wont-hurt](https://github.com/stevekane/promise-it-wont-hurt)
 
