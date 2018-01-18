@@ -149,7 +149,7 @@
   - nature of a HOC, some usecases?
 - [x] [dev7](https://github.com/redpelicans/mission-impossible/commit/a1715c4a78c283f5d49b9b94376494ed8b92b669) refine dev6 with Connect HOC, Logger HOC, Glamour HOC
 - [x] read [react-context](https://reactjs.org/docs/context.html)
-- [x] dev8 refine dev7 with context
+- [x] [dev8](https://github.com/redpelicans/mission-impossible/commit/306b15a0d53dcdef28b72049570d9457080eb769) refine dev7 with context
 - [x] read [react-events](https://reactjs.org/docs/events.html) and [handling-events](https://reactjs.org/docs/handling-events.html)
 - [x] dev9 use state for UI data (hover on mission to show actions)
 
@@ -184,8 +184,7 @@
   - what is ramda?
   - what is a pure function?
 - [x] [dev11](https://github.com/redpelicans/mission-impossible/commit/5b589455e60d19a9a29081254872317bb86d7a95) implement 2 middlewares (logger and firewall) and put them in action + middleware test
-- [ ] introduce [reselect](https://github.com/reactjs/reselect)
-- [ ] dev inject relationshios (people and companies) in missions and implement spotlight and sorts
+- [x] introduce [reselect](https://github.com/reactjs/reselect)
 - [ ] read [computing-derivated-data](https://redux.js.org/docs/recipes/ComputingDerivedData.html)
 
 **day 12:**
@@ -194,12 +193,13 @@
 - [ ] questions:
 	- what is a pure function?
 	- what is currying and partial?
-- [ ] read [the-promise-of-a-burger-party](https://kosamari.com/notes/the-promise-of-a-burger-party)
-- [ ] do [promise-it-wont-hurt](https://github.com/stevekane/promise-it-wont-hurt)
+- [ ] dev inject relationships (people and companies) in missions and implement spotlight and sorts
 
 **day 13:**
 > Promise
 
+- [ ] read [the-promise-of-a-burger-party](https://kosamari.com/notes/the-promise-of-a-burger-party)
+- [ ] do [promise-it-wont-hurt](https://github.com/stevekane/promise-it-wont-hurt)
 - [ ] test onearmedbandit
 
 **day 14:**
