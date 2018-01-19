@@ -185,15 +185,15 @@
   - what is a pure function?
 - [x] [dev11](https://github.com/redpelicans/mission-impossible/commit/5b589455e60d19a9a29081254872317bb86d7a95) implement 2 middlewares (logger and firewall) and put them in action + middleware test
 - [x] introduce [reselect](https://github.com/reactjs/reselect)
-- [ ] read [computing-derivated-data](https://redux.js.org/docs/recipes/ComputingDerivedData.html)
+- [x] read [computing-derivated-data](https://redux.js.org/docs/recipes/ComputingDerivedData.html)
 
 **day 12:**
-> promise
+> reselect
 
-- [ ] questions:
+- [x] questions:
 	- what is a pure function?
 	- what is currying and partial?
-- [ ] dev inject relationships (people and companies) in missions and implement spotlight and sorts
+- [ ] dev12 inject relationships (people and companies) in missions and implement spotlight and sorts
 
 **day 13:**
 > Promise
