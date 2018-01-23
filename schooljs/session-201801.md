@@ -193,28 +193,32 @@
 - [x] questions:
 	- what is a pure function?
 	- what is currying and partial?
-- [ ] dev12 inject relationships (people and companies) in missions and implement spotlight and sorts
+- [ ] ~~dev12 inject relationships (people and companies) in missions and implement spotlight and sorts~~
 
 **day 13:**
-> Promise
+> dev
+
+- [x] dev12 inject relationships (people and companies) in missions and implement spotlight and sorts
+
+**day 14:**
+> review, Promise
 
 - [ ] read [the-promise-of-a-burger-party](https://kosamari.com/notes/the-promise-of-a-burger-party)
 - [ ] do [promise-it-wont-hurt](https://github.com/stevekane/promise-it-wont-hurt)
+ 
+> client/server, fetch, redux-thunk
+
+**day 15 (wednesday 24/1):**
+> Promise
+
 - [ ] test onearmedbandit
 
-**day 14:**
+**day 16:**
 > client/server, fetch, redux-thunk
 
 - [ ] introduction to client/server, http verbs, restful
 - [ ] read [fetch API](https://davidwalsh.name/fetch)
 - [ ] dev use redux-thunk to fetch missions and delete a mission (fetching, success, error)
-
-**day 15 (wednesday 24/1):**
-> async tests with Eric
-
-**day 16:**
-> ?
-
 - [ ] read [es6 introduction](https://ponyfoo.com/articles/es6)
 - [ ] watch [event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
