@@ -162,7 +162,7 @@
   - what is the store?
   - what is encapsulation?
 - [x] [dev10](https://github.com/redpelicans/mission-impossible/commit/4c80a35edaf279d2e1f4a1b0cbb87cc77a601e02) redux migration
-- [] ~~[dev11](https://github.com/redpelicans/mission-impossible/commit/5b589455e60d19a9a29081254872317bb86d7a95) implement 2 middlewares (logger and firewall) and put them in action~~
+- [ ] ~~[dev11](https://github.com/redpelicans/mission-impossible/commit/5b589455e60d19a9a29081254872317bb86d7a95) implement 2 middlewares (logger and firewall) and put them in action~~
 - [x] [redux middleware](https://redux.js.org/docs/advanced/Middleware.html)
 - [x] read [smart-vs-dumb-components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 - [x] [redux training](https://egghead.io/courses/getting-started-with-redux)
