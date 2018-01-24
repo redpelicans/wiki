@@ -211,7 +211,7 @@
 **day 15 (wednesday 24/1):**
 > Promise
 
-- [ ] test onearmedbandit
+- [x] test onearmedbandit https://eric_basley@bitbucket.org/redpelicans/onearmedbandit.git
 
 **day 16:**
 > client/server, fetch, redux-thunk
@@ -237,6 +237,7 @@ add mission and forms
 - [ ] react-redux#connect() with option: { pure: true } (default)
 - [ ] reselect
 - [ ] recompose
+- [ ] use oneArmedBandit to understand / practice
 
 **day 20 (wednesday 31/1):**
 > FAC
