@@ -203,10 +203,8 @@
 **day 14:**
 > review, Promise
 
-- [ ] read [the-promise-of-a-burger-party](https://kosamari.com/notes/the-promise-of-a-burger-party)
-- [ ] do [promise-it-wont-hurt](https://github.com/stevekane/promise-it-wont-hurt)
- 
-> client/server, fetch, redux-thunk
+- [x] read [the-promise-of-a-burger-party](https://kosamari.com/notes/the-promise-of-a-burger-party)
+- [x] do [promise-it-wont-hurt](https://github.com/stevekane/promise-it-wont-hurt)
 
 **day 15 (wednesday 24/1):**
 > Promise
@@ -223,6 +221,7 @@
 - [ ] watch [event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
 **day 17:**
+
 - [ ] add mission and forms
 - [ ] [css-grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
