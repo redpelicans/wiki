@@ -218,22 +218,18 @@
 
 - questions:
 	- what is a promise?
-	- implement a flow (each of the attendee, like I want A then D and C)
+	- what is a thunk?
 - [ ] introduction to client/server, http verbs, restful
 - [ ] watch [event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [ ] read [fetch API](https://davidwalsh.name/fetch)
-- [ ] dev use redux-thunk to fetch missions and delete a mission (fetching, success, error)
+- [ ] redo onearmedbandit https://eric_basley@bitbucket.org/redpelicans/onearmedbandit.git
 
 **day 17:**
+> test spotify
 
-- [ ] add mission and forms
-- [ ] [css-grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-- [ ] read [es6 introduction](https://ponyfoo.com/articles/es6)
+- [ ] test spotify
 
 **day 18:**
-add mission and forms
-
-**day 19:**
 > optimize rendering
 
 - [ ] React#shouldComponentUpdate()
@@ -243,11 +239,19 @@ add mission and forms
 - [ ] recompose
 - [ ] use oneArmedBandit to understand / practice
 
+**day 19:**
+> missions
+
+- [ ] dev use redux-thunk to fetch missions and delete a mission (fetching, success, error)
+
 **day 20 (wednesday 31/1):**
 > FAC
 
 - [ ] read [FAC introduction](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce)
 - [ ] do https://github.com/eric-basley/hocAndCo (branches vanilla, hoc, child, cat, motion)
+- [ ] add mission and forms
+- [ ] [css-grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [ ] read [es6 introduction](https://ponyfoo.com/articles/es6)
 
 **day 21:**
 - [ ] test marvel
