@@ -203,6 +203,8 @@
 **day 14:**
 > review, Promise
 
+- [x] review of dev12
+- [x] read [what-is-a-promise](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
 - [x] read [the-promise-of-a-burger-party](https://kosamari.com/notes/the-promise-of-a-burger-party)
 - [x] do [promise-it-wont-hurt](https://github.com/stevekane/promise-it-wont-hurt)
 
