@@ -216,16 +216,19 @@
 **day 16:**
 > client/server, fetch, redux-thunk
 
+- questions:
+	- what is a promise?
+	- implement a flow (each of the attendee, like I want A then D and C)
 - [ ] introduction to client/server, http verbs, restful
+- [ ] watch [event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [ ] read [fetch API](https://davidwalsh.name/fetch)
 - [ ] dev use redux-thunk to fetch missions and delete a mission (fetching, success, error)
-- [ ] read [es6 introduction](https://ponyfoo.com/articles/es6)
-- [ ] watch [event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
 **day 17:**
 
 - [ ] add mission and forms
 - [ ] [css-grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [ ] read [es6 introduction](https://ponyfoo.com/articles/es6)
 
 **day 18:**
 add mission and forms
