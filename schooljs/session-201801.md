@@ -219,15 +219,15 @@
 - questions:
 	- what is a promise?
 	- what is a thunk?
-- [ ] introduction to client/server, http verbs, restful
-- [ ] watch [event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
-- [ ] read [fetch API](https://davidwalsh.name/fetch)
-- [ ] redo onearmedbandit https://eric_basley@bitbucket.org/redpelicans/onearmedbandit.git
+- [x] introduction to client/server, http verbs, restful
+- [x] watch [event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+- [x] read [fetch API](https://davidwalsh.name/fetch)
+- [x] test spotify: [peer conceptualisation](https://docs.google.com/presentation/d/1BHI5sCs_gxZEbgmGehN0iVi0I1V_B0SmWISd-uMzebo/edit#slide=id.g32808dbfe6_0_153)
 
 **day 17:**
 > test spotify
 
-- [ ] test spotify
+- [ ] test spotify: [code](https://bitbucket.org/redpelicans/spotify)
 
 **day 18:**
 > optimize rendering
