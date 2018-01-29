@@ -227,11 +227,12 @@
 **day 17:**
 > test spotify
 
-- [ ] test spotify: [code](https://bitbucket.org/redpelicans/spotify)
+- [x] test spotify: [code](https://bitbucket.org/redpelicans/spotify)
 
 **day 18:**
 > optimize rendering
 
+- [ ] review spotify code
 - [ ] React#shouldComponentUpdate()
 - [ ] React.PureComponent
 - [ ] react-redux#connect() with option: { pure: true } (default)
