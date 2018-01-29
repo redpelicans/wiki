@@ -198,7 +198,7 @@
 **day 13:**
 > dev
 
-- [x] dev12 inject relationships (people and companies) in missions and implement spotlight and sorts
+- [x] [dev12](https://github.com/redpelicans/mission-impossible/commit/22a5ea07c8eda309081c085677a6fc700841db1d) inject relationships (people and companies) in missions and implement spotlight and sorts
 
 **day 14:**
 > review, Promise
