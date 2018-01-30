@@ -38,8 +38,12 @@
 - avatar component (oneplus is nice)
 - login feature
 - media-query
-- react-motion and FAC
-- [ ] dev play with react lifecycle ([clock](https://openclassrooms.com/courses/build-web-apps-with-reactjs/build-a-ticking-clock-component), use props hooks only)
+- react-motion and FAC ([FAC introduction](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce))
+- dev play with react lifecycle ([clock](https://openclassrooms.com/courses/build-web-apps-with-reactjs/build-a-ticking-clock-component), use props hooks only)
+- do https://github.com/eric-basley/hocAndCo (branches vanilla, hoc, child, cat, motion)
+- add/update mission
+- [css-grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- read [es6 introduction](https://ponyfoo.com/articles/es6)
 
 **day 1 (4/1):**
 > client, git, boilerplate, react, components vs elements
@@ -225,7 +229,7 @@
 - [x] test spotify: [peer conceptualisation](https://docs.google.com/presentation/d/1BHI5sCs_gxZEbgmGehN0iVi0I1V_B0SmWISd-uMzebo/edit#slide=id.g32808dbfe6_0_153)
 
 **day 17:**
-> test spotify
+> test
 
 - [x] test spotify: [code](https://bitbucket.org/redpelicans/spotify)
 
@@ -242,21 +246,19 @@
 - [x] React.PureComponent
 - [x] react-redux#connect() with option: { pure: true } (default)
 - [x] reselect#createSelector()
-- [ ] recompose#onlyUpdateForKeys()
-- [ ] training extended review
+- [x] training extended review: [Training Mind Map](/uploads/training-mind-map.pdf "Training Mind Map")
 
 **day 20 (wednesday 31/1):**
-> FAC
+> missions
 
-- [ ] dev use redux-thunk to fetch missions and delete a mission (fetching, success, error)
-- [ ] read [FAC introduction](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce)
-- [ ] do https://github.com/eric-basley/hocAndCo (branches vanilla, hoc, child, cat, motion)
-- [ ] add mission and forms
-- [ ] [css-grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-- [ ] read [es6 introduction](https://ponyfoo.com/articles/es6)
+- [ ] plug missions to peep API
+- [ ] recompose#onlyUpdateForKeys()
 
 **day 21:**
+> test
+
 - [ ] test marvel
 
 **day 22 (friday 2/2):**
+
 wrap up
