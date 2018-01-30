@@ -230,24 +230,25 @@
 - [x] test spotify: [code](https://bitbucket.org/redpelicans/spotify)
 
 **day 18:**
-> optimize rendering
+> oneArmedBandit
 
-- [ ] review spotify code
-- [ ] React#shouldComponentUpdate()
-- [ ] React.PureComponent
-- [ ] react-redux#connect() with option: { pure: true } (default)
-- [ ] reselect
-- [ ] recompose
-- [ ] use oneArmedBandit to understand / practice
+- [x] review spotify code
+- [x] reimplement (peer programing) oneArmedBandit: [code](https://bitbucket.org/redpelicans/spotify) (roulette)
 
 **day 19:**
-> missions
+> optimize rendering
 
-- [ ] dev use redux-thunk to fetch missions and delete a mission (fetching, success, error)
+- [x] React#shouldComponentUpdate()
+- [x] React.PureComponent
+- [x] react-redux#connect() with option: { pure: true } (default)
+- [x] reselect#createSelector()
+- [ ] recompose#onlyUpdateForKeys()
+- [ ] training extended review
 
 **day 20 (wednesday 31/1):**
 > FAC
 
+- [ ] dev use redux-thunk to fetch missions and delete a mission (fetching, success, error)
 - [ ] read [FAC introduction](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce)
 - [ ] do https://github.com/eric-basley/hocAndCo (branches vanilla, hoc, child, cat, motion)
 - [ ] add mission and forms
