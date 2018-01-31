@@ -251,7 +251,7 @@
 **day 20 (wednesday 31/1):**
 > missions
 
-- [ ] plug missions to peep API
+- [x ] plug missions to peep API
 - [ ] recompose#onlyUpdateForKeys()
 
 **day 21:**
