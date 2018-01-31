@@ -1,4 +1,4 @@
-<!-- TITLE: session2018-01 -->
+Un<!-- TITLE: session2018-01 -->
 <!-- SUBTITLE: All about training sessions -->
 
 # session of 2018-01
@@ -251,7 +251,7 @@
 **day 20 (wednesday 31/1):**
 > missions
 
-- [x ] plug missions to peep API
+- [x] plug missions to peep API
 - [ ] recompose#onlyUpdateForKeys()
 
 **day 21:**
