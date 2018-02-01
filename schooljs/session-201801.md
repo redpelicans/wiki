@@ -251,6 +251,7 @@ Un<!-- TITLE: session2018-01 -->
 **day 20 (wednesday 31/1):**
 > missions
 
+- [x] questionnary : http://wiki.redpelicans.com/hiring/questionnary
 - [x] plug missions to peep API
 - [ ] recompose#onlyUpdateForKeys()
 
