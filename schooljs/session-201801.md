@@ -253,13 +253,18 @@ Un<!-- TITLE: session2018-01 -->
 
 - [x] questionnary : http://wiki.redpelicans.com/hiring/questionnary
 - [x] plug missions to peep API
-- [ ] recompose#onlyUpdateForKeys()
 
 **day 21:**
 > test
 
-- [ ] test marvel
+- [x] test marvel
 
 **day 22 (friday 2/2):**
+> review, recompose
 
-wrap up
+- [x] review: prototype, prototype inheritance, es6 class (super, this, extends)
+- [x] recompose
+  - onlyUpdateForKeys
+  - withProps, renameProps
+  - branch, renderComponent
+  - lifecycle
