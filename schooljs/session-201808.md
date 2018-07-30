@@ -6,11 +6,8 @@
 * 
 
 > [ ] create google accounts (for RP attendees)
-
 > [ ] create JIRA accounts 
-
 > [ ] create gitlab accounts
-
 > [ ] invite to schoolJS slack chan
 
 **General information:**
