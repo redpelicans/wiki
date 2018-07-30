@@ -5,10 +5,10 @@
 * Paul Villeneuve (RP) - 
 * 
 
-> [ ] create google accounts (for RP attendees)
-> [ ] create JIRA accounts 
-> [ ] create gitlab accounts
-> [ ] invite to schoolJS slack chan
+- [ ] create google accounts (for RP attendees)
+- [ ] create JIRA accounts 
+- [ ] create gitlab accounts
+- [ ] invite to schoolJS slack chan
 
 **General information:**
 * start on the 1st of August 2018
