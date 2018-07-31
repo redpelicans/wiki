@@ -2,10 +2,16 @@
 ## overview
 
 **Attendees:**
-* Paul Villeneuve (RP) - 
-* 
+* Paul Villeneuve (RP) - paul.villeneuve@redpelicans.com
+* steven.ngo (RP) - steven.ngo@redpelicans.com
+*
+*
+*
+*
+*
 
-- [ ] create google accounts (for RP attendees)
+
+- [x] create google accounts (for RP attendees)
 - [ ] create JIRA accounts 
 - [ ] create gitlab accounts
 - [ ] invite to schoolJS slack chan
