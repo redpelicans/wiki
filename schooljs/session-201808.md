@@ -5,13 +5,16 @@
 * Paul Villeneuve (RP) - paul.villeneuve@redpelicans.com
 * steven.ngo (RP) - steven.ngo@redpelicans.com
 * kadda.tarek@gmail.com (DareJS) - Tarek KADDA - (+33) 06 52 32 98 91
-
+* slim.chkir@nearteam.fr - Slim Chkir
+* mahmoud.maghraoui@sesame.com - Mahmoud Maghraoui
+* mustapha.benyedder@sesame.com - Mustapha Ben Yedder
+* sbouielee@gmail.com - Elee Sboui
 
 
 - [x] create google accounts (for RP attendees)
 - [ ] create JIRA accounts 
 - [ ] create gitlab accounts
-- [ ] invite to schoolJS slack chan
+- [x] invite to schoolJS slack chan
 
 **General information:**
 * start on the 1st of August 2018
@@ -41,7 +44,7 @@
 - [ ] setup boilerplate (single repository with a develop branch for each attendee)
 
 
-**day2:**
+**day 2:**
 > material-ui, site layout, header
 
 - [ ] read [react-elements-vs-react-components](https://medium.freecodecamp.org/react-elements-vs-react-components-fdc776705880)
