@@ -55,8 +55,9 @@
 - [ ] craft Header, HeaderLeft, HeaderRight
 
 **day3:**
-> login Form, HOC, FAC
+> tests, login Form, HOC, FAC
 
+- [ ] test existing code
 - [ ] craft login form
 - [ ] use [final-form](https://github.com/final-form/react-final-form#material-ui-10)
 - [ ] migrate to HOC
