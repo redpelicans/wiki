@@ -34,11 +34,38 @@
 > run `node --version` and `git --version` in the console
 
 **day 1:**
-> client, git, boilerplate, react, components vs elements
+> OS env, git, boilerplate, yarn, prettier, eslint, tests, react, jira, slack, first react app
 
 - [ ] [client introduction](https://docs.google.com/presentation/d/1nkelpLG-BikiiHWvfkUj7zxZDdMBx0pyCOhVnqDZLXE)
-- [ ] [git introduction](http://nvie.com/posts/a-successful-git-branching-model/)
-- [ ] [boilerplate introduction](https://github.com/facebook/create-react-app), [semver](https://semver.org/)
-- [ ] setup boilerplate (single repository with a dev branch for each attendee)
+- [ ] read [git introduction](http://nvie.com/posts/a-successful-git-branching-model/)
+- [ ] read [boilerplate introduction](https://github.com/facebook/create-react-app), [semver](https://semver.org/)
 - [ ] read [react documentation](https://reactjs.org/docs/hello-world.html) (quick start)
+- [ ] create first app with `create_react_app`, add your own <App/> to display your name
+- [ ] setup boilerplate (single repository with a develop branch for each attendee)
+
+
+**day2:**
+> material-ui, site layout, header
+
 - [ ] read [react-elements-vs-react-components](https://medium.freecodecamp.org/react-elements-vs-react-components-fdc776705880)
+- [ ] read [material-ui](https://material-ui.com/getting-started/usage/)
+- [ ] read 
+- [ ] craft layout 
+- [ ] craft rendering a list of posts (add static data from index.js)
+- [ ] craft Header, HeaderLeft, HeaderRight
+
+**day3:**
+> login Form, HOC, FAC
+
+- [ ] craft login form
+- [ ] use [final-form](https://github.com/final-form/react-final-form#material-ui-10)
+- [ ] migrate to HOC
+- [ ] add react-router
+
+**day4:**
+
+**day5:**
+
+**pending:**
+
+* components vs elements
