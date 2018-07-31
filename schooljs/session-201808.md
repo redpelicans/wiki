@@ -4,11 +4,8 @@
 **Attendees:**
 * Paul Villeneuve (RP) - paul.villeneuve@redpelicans.com
 * steven.ngo (RP) - steven.ngo@redpelicans.com
-*
-*
-*
-*
-*
+* kadda.tarek@gmail.com (DareJS) - Tarek KADDA - (+33) 06 52 32 98 91
+
 
 
 - [x] create google accounts (for RP attendees)
