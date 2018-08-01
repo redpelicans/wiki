@@ -69,3 +69,4 @@
 
 **pending:**
 - [ ] read [react-elements-vs-react-components](https://medium.freecodecamp.org/react-elements-vs-react-components-fdc776705880)
+- Arrow fct vs function / this / bind
