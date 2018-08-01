@@ -37,7 +37,7 @@
 > OS env, git, boilerplate, yarn, prettier, eslint, tests, react, jira, slack, first react app
 
 - [ ] [client introduction](https://docs.google.com/presentation/d/1nkelpLG-BikiiHWvfkUj7zxZDdMBx0pyCOhVnqDZLXE)
-- [ ] read [git introduction](http://nvie.com/posts/a-successful-git-branching-model/)
+- [ ] read [git introduction](http://nvie.com/posts/a-successful-git-branching-model/), [git intro2](https://delicious-insights.com/fr/articles/bien-utiliser-git-merge-et-rebase/)
 - [ ] read [boilerplate introduction](https://github.com/facebook/create-react-app), [semver](https://semver.org/)
 - [ ] read [react documentation](https://reactjs.org/docs/hello-world.html) (quick start)
 - [ ] create first app with `create_react_app`, add your own <App/> to display your name
