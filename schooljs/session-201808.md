@@ -6,8 +6,8 @@
 * steven.ngo (RP) - steven.ngo@redpelicans.com
 * kadda.tarek@gmail.com (DareJS) - Tarek KADDA - (+33) 06 52 32 98 91
 * slim.chkir@nearteam.fr - Slim Chkir
-* mahmoud.maghraoui@sesame.com.tm - Mahmoud Maghraoui
-* mustapha.benyedder@sesame.com.tm - Mustapha Ben Yedder
+* mahmoud.maghraoui@sesame.com.tn - Mahmoud Maghraoui
+* mustapha.benyedder@sesame.com.tn - Mustapha Ben Yedder
 * sbouielee@gmail.com - Elee Sboui
 
 
