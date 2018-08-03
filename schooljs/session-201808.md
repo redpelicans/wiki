@@ -45,28 +45,32 @@
 
 
 **day 2:**
-> material-ui, site layout, header
+> material-ui, Grid
 
+- [x] read [material-ui](https://material-ui.com/getting-started/usage/)
+- [x] craft layout without and with MUI 
 
-- [ ] read [material-ui](https://material-ui.com/getting-started/usage/)
-- [ ] craft layout without and with MUI 
-- [ ] craft Header, HeaderLeft, HeaderRight
-- [ ] craft rendering a list of posts (add static data from index.js)
 
 
 **day3:**
-> tests, login Form, HOC, FAC
 
+- [x] craft rendering a list of posts (add static data from index.js)
+- [ ] craft Header, HeaderLeft, HeaderRight
 - [ ] test existing code
 - [ ] craft login form
 - [ ] use [final-form](https://github.com/final-form/react-final-form#material-ui-10)
 
-
 **day4:**
+> tests, login Form, HOC, FAC
+
+
+**day5:**
+> tests, login Form, HOC, FAC
+
 - [ ] migrate to HOC
 - [ ] add react-router
 
-**day5:**
+
 
 **pending:**
 - [ ] read [react-elements-vs-react-components](https://medium.freecodecamp.org/react-elements-vs-react-components-fdc776705880)
