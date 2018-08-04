@@ -51,27 +51,22 @@
 - [x] craft layout without and with MUI 
 
 
-
 **day3:**
 
 - [x] craft rendering a list of posts (add static data from index.js)
-- [ ] craft Header, HeaderLeft, HeaderRight
+- [x] craft Header, HeaderLeft, HeaderRight
+
+**day4:**
+
+- [ ] add drawer to fit new layout
+- [ ] render Chart
+- [ ] introduce state
+
+**pending**:
 - [ ] test existing code
 - [ ] craft login form
 - [ ] use [final-form](https://github.com/final-form/react-final-form#material-ui-10)
-
-**day4:**
-> tests, login Form, HOC, FAC
-
-
-**day5:**
-> tests, login Form, HOC, FAC
-
 - [ ] migrate to HOC
 - [ ] add react-router
-
-
-
-**pending:**
 - [ ] read [react-elements-vs-react-components](https://medium.freecodecamp.org/react-elements-vs-react-components-fdc776705880)
 - Arrow fct vs function / this / bind
