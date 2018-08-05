@@ -84,3 +84,4 @@
 **pending**:
 - [ ] controlled / uncontrolled
 - [ ] lifecycle
+- [ ] ways to style with React
