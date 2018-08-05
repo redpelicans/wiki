@@ -83,3 +83,4 @@
 
 **pending**:
 - [ ] controlled / uncontrolled
+- [ ] lifecycle
