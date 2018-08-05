@@ -85,3 +85,7 @@
 - [ ] controlled / uncontrolled
 - [ ] lifecycle
 - [ ] ways to style with React
+- [ ] FP training
+- [ ] Flux ...
+- [ ] React Context
+
