@@ -75,7 +75,7 @@
 - [ ] migrate to HOC
 - [ ] use [final-form](https://github.com/final-form/react-final-form#material-ui-10)
 
-**day7:**
+**day8:**
 - [ ] add react-router
 
 
