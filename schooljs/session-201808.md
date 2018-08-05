@@ -61,6 +61,8 @@
 - [ ] introduce state / class component
 - [ ] Arrow fct vs function / this / bind
 - [ ] sample with state
+- [ ] read [react-elements-vs-react-components](https://medium.freecodecamp.org/react-elements-vs-react-components-fdc776705880)
+- [ ] lifecycle#render / virtual DOM
 - [ ] render Chart
 
 **day5:**
@@ -81,4 +83,3 @@
 
 **pending**:
 - [ ] controlled / uncontrolled
-- [ ] read [react-elements-vs-react-components](https://medium.freecodecamp.org/react-elements-vs-react-components-fdc776705880)
