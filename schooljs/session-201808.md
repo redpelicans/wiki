@@ -58,15 +58,27 @@
 
 **day4:**
 
-- [ ] add drawer to fit new layout
+- [ ] introduce state / class component
+- [ ] Arrow fct vs function / this / bind
+- [ ] sample with state
 - [ ] render Chart
-- [ ] introduce state
 
-**pending**:
+**day5:**
+- [ ] add drawer to fit new layout
+- [ ] use develop branch
+
+**day6:**
 - [ ] test existing code
 - [ ] craft login form
-- [ ] use [final-form](https://github.com/final-form/react-final-form#material-ui-10)
+
+**day7:**
 - [ ] migrate to HOC
+- [ ] use [final-form](https://github.com/final-form/react-final-form#material-ui-10)
+
+**day7:**
 - [ ] add react-router
+
+
+**pending**:
+- [ ] controlled / uncontrolled
 - [ ] read [react-elements-vs-react-components](https://medium.freecodecamp.org/react-elements-vs-react-components-fdc776705880)
-- Arrow fct vs function / this / bind
