@@ -58,15 +58,16 @@
 
 **day4:**
 
-- [ ] introduce state / class component
-- [ ] Arrow fct vs function / this / bind
-- [ ] sample with state
-- [ ] read [react-elements-vs-react-components](https://medium.freecodecamp.org/react-elements-vs-react-components-fdc776705880)
-- [ ] lifecycle#render / virtual DOM
-- [ ] render Chart
+- [x] introduce state / class component
+- [x] Arrow fct vs function / this / bind
+- [x] sample with state
+- [x] read [react-elements-vs-react-components](https://medium.freecodecamp.org/react-elements-vs-react-components-fdc776705880)
+- [x] lifecycle#render / virtual DOM
+- [x] render Chart
 
 **day5:**
-- [ ] add drawer to fit new layout
+- [x] add drawer to fit new layout
+- [x] withMouse HOC
 - [ ] use develop branch
 
 **day6:**
