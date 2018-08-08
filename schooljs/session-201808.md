@@ -68,16 +68,16 @@
 **day5:**
 - [x] add drawer to fit new layout
 - [x] withMouse HOC
-- [ ] use develop branch
+- [x] use develop branch
 
 **day6:**
-- [ ] migrate withMouse as a Function as a Child | render prop
-- [ ] craft login form
-- [ ] migrate to HOC
+- [x] migrate withMouse as a Function as a Child | render prop
+- [x] craft login form
 
 
 
 **day7:**
+- [ ] migrate to HOC
 - [ ] use [final-form](https://github.com/final-form/react-final-form#material-ui-10)
 - [ ] test existing code
 
