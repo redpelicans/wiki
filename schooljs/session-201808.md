@@ -71,15 +71,19 @@
 - [ ] use develop branch
 
 **day6:**
-- [ ] test existing code
+- [ ] migrate withMouse as a Function as a Child | render prop
 - [ ] craft login form
+- [ ] migrate to HOC
+
+
 
 **day7:**
-- [ ] migrate to HOC
 - [ ] use [final-form](https://github.com/final-form/react-final-form#material-ui-10)
+- [ ] test existing code
 
 **day8:**
 - [ ] add react-router
+- [ ] test: craft a carousel for `home` news
 
 
 **pending**:
