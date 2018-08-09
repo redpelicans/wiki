@@ -77,12 +77,13 @@
 
 
 **day7:**
-- [ ] migrate to HOC
-- [ ] use [final-form](https://github.com/final-form/react-final-form#material-ui-10)
+- [x] migrate to HOC
+- [x] use [final-form](https://github.com/final-form/react-final-form#material-ui-10)
 - [ ] test existing code
 
 **day8:**
 - [ ] add react-router
+- [ ] Context + withAuth
 - [ ] test: craft a carousel for `home` news
 
 
