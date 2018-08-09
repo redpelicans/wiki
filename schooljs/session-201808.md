@@ -79,7 +79,7 @@
 **day7:**
 - [x] migrate to HOC
 - [x] use [final-form](https://github.com/final-form/react-final-form#material-ui-10)
-- [ ] test existing code
+- [x] test existing code
 
 **day8:**
 - [ ] add react-router
@@ -88,6 +88,7 @@
 
 
 **pending**:
+- [ ] test to get property, content, debug(), simulateClick
 - [ ] controlled / uncontrolled
 - [ ] lifecycle
 - [ ] ways to style with React
