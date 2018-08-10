@@ -83,8 +83,22 @@
 
 **day8:**
 - [ ] add react-router
-- [ ] Context + withAuth
+- [ ] React Context + withAuth
 - [ ] test: craft a carousel for `home` news
+
+**day9:**
+- [ ] flux home made
+
+**day10:**
+- [ ] redux
+
+**day11:**
+- [ ]: FP training
+
+**day12:**
+
+- [ ]: Lear Promises, Fetch SDMX, Posts
+
 
 
 **pending**:
@@ -94,5 +108,8 @@
 - [ ] ways to style with React
 - [ ] FP training
 - [ ] Flux ...
-- [ ] React Context
-
+- [ ] read react-events and handling-events
+- [ ] Redux middleware
+- [ ] craft News Page
+- [ ] craft `More...` link on posts
+- [ ] Add MUI Carousel for home posts
