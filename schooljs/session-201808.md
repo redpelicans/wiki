@@ -82,9 +82,9 @@
 - [x] test existing code
 
 **day8:**
-- [ ] add react-router
-- [ ] React Context + withAuth
-- [ ] test: craft a carousel for `home` news
+- [x] add react-router
+- [x] React Context + withAuth
+- [x] test: craft a carousel for `home` news
 
 **day9:**
 - [ ] flux home made
