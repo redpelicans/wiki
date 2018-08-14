@@ -87,19 +87,19 @@
 - [x] test: craft a carousel for `home` news
 
 **day9:**
-- [ ] flux home made
+- [x] flux home made
 
 **day10:**
-- [ ] redux
+- [x] redux: [basics](https://redux.js.org/basics)
+- [x] [getting-started-with-redux](https://egghead.io/courses/getting-started-with-redux)
+- [x] news page: [story](https://redpelicans.atlassian.net/browse/SDPT-22)
 
 **day11:**
-- [ ]: FP training
+- [x] [getting-started-with-redux](https://egghead.io/courses/getting-started-with-redux)
 
 **day12:**
-
+- [ ]: FP training
 - [ ]: Lear Promises, Fetch SDMX, Posts
-
-
 
 **pending**:
 - [ ] test to get property, content, debug(), simulateClick
