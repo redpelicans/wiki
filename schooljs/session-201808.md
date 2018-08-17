@@ -102,18 +102,30 @@
 - [x]: Lear Promises
 
 **day13:**
-- [ ]: Fetch SDMX, Posts
-- [ ]: Add middlewares to app ()
+- [x]: Fetch SDMX, Posts
+- [x]: Add middlewares to app ()
 - [ ]: Fetch Fruits, Play with Fruits
+- [ ]: lifecycle
+
+
+**day14:**
+- [ ]: reselect
+- []: convert Array state.posts as Object state.posts.data, update selectors
+
+**day15, 16:**
+- [ ]:Add filters, sort in news page
+
+**day17:**
+- [ ]: optimize
 
 
 **pending**:
+- [ ] prototype vs class
 - [ ] test to get property, content, debug(), simulateClick
 - [ ] controlled / uncontrolled
-- [ ] lifecycle
 - [ ] ways to style with React
 - [ ] read react-events and handling-events
-- [ ] Redux middleware
+- [ ] Redux middleware test
 - [ ] craft News Page
 - [ ] craft `More...` link on posts
 - [ ] Add MUI Carousel for home posts
