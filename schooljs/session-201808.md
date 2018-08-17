@@ -104,8 +104,8 @@
 **day13:**
 - [x]: Fetch SDMX, Posts
 - [x]: Add middlewares to app ()
-- [ ]: Fetch Fruits, Play with Fruits
-- [ ]: lifecycle
+- [x]: Fetch Fruits, Play with Fruits
+- [x]: lifecycle
 
 
 **day14:**
