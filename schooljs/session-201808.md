@@ -98,16 +98,20 @@
 - [x] [getting-started-with-redux](https://egghead.io/courses/getting-started-with-redux)
 
 **day12:**
-- [ ]: FP training
-- [ ]: Lear Promises, Fetch SDMX, Posts
+- [x]: FP training
+- [x]: Lear Promises
+
+**day13:**
+- [ ]: Fetch SDMX, Posts
+- [ ]: Add middlewares to app ()
+- [ ]: Fetch Fruits, Play with Fruits
+
 
 **pending**:
 - [ ] test to get property, content, debug(), simulateClick
 - [ ] controlled / uncontrolled
 - [ ] lifecycle
 - [ ] ways to style with React
-- [ ] FP training
-- [ ] Flux ...
 - [ ] read react-events and handling-events
 - [ ] Redux middleware
 - [ ] craft News Page
