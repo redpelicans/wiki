@@ -107,7 +107,6 @@
 - [x] Fetch Fruits, Play with Fruits
 - [x] lifecycle
 
-
 **day14:**
 - [x] reselect
 
@@ -117,20 +116,24 @@
 **day17:**
 - [x] convert Array state.posts as Object state.posts.data, update selectors
 - [x] optimize
-- [ ] recompose
-- [ ] test selectors, reducers, actions
+- [x] test selectors, reducers, actions
 
 **day18:**
 - [ ] prototype vs class
-- [ ] Redux middleware test
-- [ ] Add filters, sort in news page
+- [ ] Add filters, sort in news page + optimize
 
 
 **day19:**
+- [ ] recompose
+- [ ] Redux middleware test
+
+
+**day20:**
 - [ ] Marvel
 
 
 **pending**:
+
 - [ ] test to get property, content, debug(), simulateClick
 - [ ] controlled / uncontrolled
 - [ ] ways to style with React
