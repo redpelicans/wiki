@@ -112,11 +112,11 @@
 - [x] reselect
 
 **day15, 16:**
-- [ ] Add filters, sort in news page
+- [x] Add filters, sort in news page
 
 **day17:**
-- [ ] convert Array state.posts as Object state.posts.data, update selectors
-- [ ] optimize
+- [x] convert Array state.posts as Object state.posts.data, update selectors
+- [x] optimize
 - [ ] recompose
 - [ ] test selectors, reducers, actions
 
