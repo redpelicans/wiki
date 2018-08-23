@@ -98,34 +98,42 @@
 - [x] [getting-started-with-redux](https://egghead.io/courses/getting-started-with-redux)
 
 **day12:**
-- [x]: FP training
-- [x]: Lear Promises
+- [x] FP training
+- [x] Lear Promises
 
 **day13:**
-- [x]: Fetch SDMX, Posts
-- [x]: Add middlewares to app ()
-- [x]: Fetch Fruits, Play with Fruits
-- [x]: lifecycle
+- [x] Fetch SDMX, Posts
+- [x] Add middlewares to app ()
+- [x] Fetch Fruits, Play with Fruits
+- [x] lifecycle
 
 
 **day14:**
-- [ ]: reselect
-- []: convert Array state.posts as Object state.posts.data, update selectors
+- [x] reselect
 
 **day15, 16:**
-- [ ]:Add filters, sort in news page
+- [ ] Add filters, sort in news page
 
 **day17:**
-- [ ]: optimize
+- [ ] convert Array state.posts as Object state.posts.data, update selectors
+- [ ] optimize
+- [ ] recompose
+
+**day18:**
+- [ ] prototype vs class
+- [ ] Redux middleware test
+- [ ] Add filters, sort in news page
+
+
+**day19:**
+- [ ] Marvel
 
 
 **pending**:
-- [ ] prototype vs class
 - [ ] test to get property, content, debug(), simulateClick
 - [ ] controlled / uncontrolled
 - [ ] ways to style with React
 - [ ] read react-events and handling-events
-- [ ] Redux middleware test
 - [ ] craft News Page
 - [ ] craft `More...` link on posts
 - [ ] Add MUI Carousel for home posts
