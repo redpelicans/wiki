@@ -118,6 +118,7 @@
 - [ ] convert Array state.posts as Object state.posts.data, update selectors
 - [ ] optimize
 - [ ] recompose
+- [ ] test selectors, reducers, actions
 
 **day18:**
 - [ ] prototype vs class
