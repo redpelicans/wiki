@@ -34,10 +34,11 @@
 
 ##schedule
 
-**ideas:**
+**ideas (boite à idées):**
 * D3JS charts with C3JS
 * WP integration
 * Final form with phone input, captcha and email (+confirmation)
+* [css-grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 **day 1**
 - [ ] [client introduction](https://docs.google.com/presentation/d/1nkelpLG-BikiiHWvfkUj7zxZDdMBx0pyCOhVnqDZLXE)
@@ -69,7 +70,7 @@
   - [classnames](https://github.com/JedWatson/classnames)
   - [css-modules](https://github.com/css-modules/css-modules)
   - [MUI](https://material-ui.com/getting-started/usage/)
-- [x] [autoprefixer](https://github.com/postcss/autoprefixer)
+- [ ] [autoprefixer](https://github.com/postcss/autoprefixer)
 
 **day 3**
 - [ ] questions:
@@ -77,20 +78,20 @@
   - wild as import
   - rest parameter
   - destructuring props
-- [] [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [] conception of UI (declarative way, [mockup](https://docs.google.com/drawings/d/1Y5pBfaK2LEojsqKrj9JTdB8R-0HZk6AUcP6G-uXrf3Q/edit?usp=sharing))
-- [] introduce composability (header with children, generic card for mission)
-- [] es6 function composition syntax
+- [ ] [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [ ] conception of UI (declarative way, [mockup](https://docs.google.com/drawings/d/1Y5pBfaK2LEojsqKrj9JTdB8R-0HZk6AUcP6G-uXrf3Q/edit?usp=sharing))
+- [ ] introduce composability (header with children, generic card for mission)
+- [ ] es6 function composition syntax
 
 **day 4**
-- [x] [dev3](https://github.com/redpelicans/mission-impossible/commit/6176192c17b66455059b4c00a5f60f25b77371f9) style dev2 with blueprintjs and glamorous
-- [x] [dev4](https://github.com/redpelicans/mission-impossible/commit/336e2eb3296ad8f52d23c1364c96617f747e93a8) implement missions page (layout and composed header)
-- [x] questions:
+- [ ] [dev3](https://github.com/redpelicans/mission-impossible/commit/6176192c17b66455059b4c00a5f60f25b77371f9) style dev2 with blueprintjs and glamorous
+- [ ] [dev4](https://github.com/redpelicans/mission-impossible/commit/336e2eb3296ad8f52d23c1364c96617f747e93a8) implement missions page (layout and composed header)
+- [ ] questions:
   - es6 string interpolation
   - flexbox wrapped centered layout
-- [x] pure function into class (React)
-- [x] read [react lifecycle](https://reactjs.org/docs/react-component.html#the-component-lifecycle)
-- [x] [es6-katas](http://es6katas.org/) (easy only: rest operator, destructuring, default parameters, modules, template strings)
+- [ ] pure function into class (React)
+- [ ] read [react lifecycle](https://reactjs.org/docs/react-component.html#the-component-lifecycle)
+- [ ] [es6-katas](http://es6katas.org/) (easy only: rest operator, destructuring, default parameters, modules, template strings)
 
 **day 5**
 - [ ] questions:
@@ -101,7 +102,4 @@
 - [ ] test environnement (package.json, jest, jest.config.js, coverage), travis
 - [ ] test React components (shallow / mount, enzyme) and functions (sync, async, Error handling)
 - [ ] introduce curry with the add() sample
-
-**Boite à idées**
-- [] [css-grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
