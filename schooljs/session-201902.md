@@ -80,12 +80,11 @@
   - destructuring props
 - [ ] [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [ ] conception of UI (declarative way, [mockup](https://docs.google.com/drawings/d/1Y5pBfaK2LEojsqKrj9JTdB8R-0HZk6AUcP6G-uXrf3Q/edit?usp=sharing))
-- [ ] introduce composability (header with children, generic card for mission)
+- [ ] introduce composability (header with children)
 - [ ] es6 function composition syntax
 
 **day 4**
-- [ ] [dev3](https://github.com/redpelicans/mission-impossible/commit/6176192c17b66455059b4c00a5f60f25b77371f9) style dev2 with blueprintjs and glamorous
-- [ ] [dev4](https://github.com/redpelicans/mission-impossible/commit/336e2eb3296ad8f52d23c1364c96617f747e93a8) implement missions page (layout and composed header)
+- [ ] dev?
 - [ ] questions:
   - es6 string interpolation
   - flexbox wrapped centered layout
