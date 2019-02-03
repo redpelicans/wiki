@@ -77,11 +77,10 @@
   - wild as import
   - rest parameter
   - destructuring props
-- [x] [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [x] [css-grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-- [x] conception of UI (declarative way, [mockup](https://docs.google.com/drawings/d/1Y5pBfaK2LEojsqKrj9JTdB8R-0HZk6AUcP6G-uXrf3Q/edit?usp=sharing))
-- [x] introduce composability (header with children, generic card for mission)
-- [x] es6 function composition syntax
+- [] [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [] conception of UI (declarative way, [mockup](https://docs.google.com/drawings/d/1Y5pBfaK2LEojsqKrj9JTdB8R-0HZk6AUcP6G-uXrf3Q/edit?usp=sharing))
+- [] introduce composability (header with children, generic card for mission)
+- [] es6 function composition syntax
 
 **day 4**
 - [x] [dev3](https://github.com/redpelicans/mission-impossible/commit/6176192c17b66455059b4c00a5f60f25b77371f9) style dev2 with blueprintjs and glamorous
@@ -102,3 +101,7 @@
 - [ ] test environnement (package.json, jest, jest.config.js, coverage), travis
 - [ ] test React components (shallow / mount, enzyme) and functions (sync, async, Error handling)
 - [ ] introduce curry with the add() sample
+
+**Boite à idées**
+- [] [css-grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
