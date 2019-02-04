@@ -9,7 +9,6 @@
 |Florian Chanal|RP|florian.chanal@redpelicans.com (fchanal@student.42.fr)|+33 7 51 67 34 92|
 |Jean-Philippe Hoareau Méavilla|RP|jean-philippe.hoareau@redpelicans.com (jeahoare@gmail.com)|+33 6 20 62 65 48|
 |Rabi Hrichi|?|eng.rabi.hr@gmail.com|+216 28 364 758|
-|Hatem Bouhajja|?|hatembouhajja@gmail.com|-|
 |Wael Azizi|?|wael.azizi@sesame.com.tn|-|
 
 **Todo:**
