@@ -53,6 +53,7 @@
 **day 2**
 - [ ] questions on day 1:
   - difference between `React.Element` and `React.Component`
+  - some git commands
 - [ ] [React](https://docs.google.com/presentation/d/1nkelpLG-BikiiHWvfkUj7zxZDdMBx0pyCOhVnqDZLXE)
 - [ ] es6-import-export
   - [cheatsheet](https://hackernoon.com/import-export-default-require-commandjs-javascript-nodejs-es6-vs-cheatsheet-different-tutorial-example-5a321738b50f)
@@ -68,7 +69,7 @@
   - [css-modules](https://github.com/css-modules/css-modules)
   - [MUI](https://material-ui.com/getting-started/usage/)
 - [ ] [autoprefixer](https://github.com/postcss/autoprefixer)
-- [ ] craft layout
+- [ ] craft history (stateless, no props)
 
 **day 3**
 - [ ] questions:
@@ -81,15 +82,16 @@
 - [ ] introduce composability (header with children)
 - [ ] es6 function composition syntax
 - [ ] [React.Fragment](https://reactjs.org/docs/fragments.html)
+- [ ] craft layout of the app
 
 **day 4**
-- [ ] dev?
 - [ ] questions:
   - es6 string interpolation
   - flexbox wrapped centered layout
 - [ ] pure function into class (React)
 - [ ] read [react lifecycle](https://reactjs.org/docs/react-component.html#the-component-lifecycle)
 - [ ] [es6-katas](http://es6katas.org/) (easy only: rest operator, destructuring, default parameters, modules, template strings)
+- [ ] craft grid with flexbox
 
 **day 5**
 - [ ] questions:
@@ -101,3 +103,8 @@
 - [ ] test React components (shallow / mount, enzyme) and functions (sync, async, Error handling)
 - [ ] introduce curry with the add() sample
 
+**day 6**
+**day 7**
+**day 8**
+**day 9**
+**day 10**
