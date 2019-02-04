@@ -41,26 +41,23 @@
 * [css-grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 **day 1**
-- [ ] [client introduction](https://docs.google.com/presentation/d/1nkelpLG-BikiiHWvfkUj7zxZDdMBx0pyCOhVnqDZLXE)
-- [ ] [git introduction](http://nvie.com/posts/a-successful-git-branching-model/)
-- [ ] [boilerplate introduction](https://github.com/facebook/create-react-app), [semver](https://semver.org/)
-- [ ] setup boilerplate (single repository with a develop branch and a develop branch for each attendee)
-- [ ] dummy pull request with feature branch (setup training git-flow and conventions)
-- [ ] tictactoe presentation (UI)
+- [x] [client introduction](https://docs.google.com/presentation/d/1nkelpLG-BikiiHWvfkUj7zxZDdMBx0pyCOhVnqDZLXE)
+- [x] [git introduction](http://nvie.com/posts/a-successful-git-branching-model/)
+- [x] [boilerplate introduction](https://github.com/facebook/create-react-app), [semver](https://semver.org/)
+- [x] setup boilerplate (single repository with a develop branch and a develop branch for each attendee)
+- [x] dummy pull request with feature branch (setup training git-flow and conventions)
+- [x] tictactoe presentation (UI)
 - [ ] read [react documentation](https://reactjs.org/docs/hello-world.html) (quick start)
 - [ ] read [react-elements-vs-react-components](https://medium.freecodecamp.org/react-elements-vs-react-components-fdc776705880)
 
 **day 2**
 - [ ] questions on day 1:
   - difference between `React.Element` and `React.Component`
-  - difference between state and props
-  - how to update the state?
-- [ ] craft layout
+- [ ] [React](https://docs.google.com/presentation/d/1nkelpLG-BikiiHWvfkUj7zxZDdMBx0pyCOhVnqDZLXE)
 - [ ] es6-import-export
   - [cheatsheet](https://hackernoon.com/import-export-default-require-commandjs-javascript-nodejs-es6-vs-cheatsheet-different-tutorial-example-5a321738b50f)
   - [value-import-export](http://es6-features.org/#ValueExportImport)
   - [default-and-wildcard](http://es6-features.org/#DefaultWildcard)
-- [ ] [React.Fragment](https://reactjs.org/docs/fragments.html)
 - [ ] react properties, rest parameter, react `PropTypes`
   - [typechecking-with-proptypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
   - [rest-parameter](http://es6-features.org/#RestParameter)
@@ -71,6 +68,7 @@
   - [css-modules](https://github.com/css-modules/css-modules)
   - [MUI](https://material-ui.com/getting-started/usage/)
 - [ ] [autoprefixer](https://github.com/postcss/autoprefixer)
+- [ ] craft layout
 
 **day 3**
 - [ ] questions:
@@ -79,9 +77,10 @@
   - rest parameter
   - destructuring props
 - [ ] [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [ ] conception of UI (declarative way, [mockup](https://docs.google.com/drawings/d/1Y5pBfaK2LEojsqKrj9JTdB8R-0HZk6AUcP6G-uXrf3Q/edit?usp=sharing))
+- [ ] conception of UI (declarative way)
 - [ ] introduce composability (header with children)
 - [ ] es6 function composition syntax
+- [ ] [React.Fragment](https://reactjs.org/docs/fragments.html)
 
 **day 4**
 - [ ] dev?
