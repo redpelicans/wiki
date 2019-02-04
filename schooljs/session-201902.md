@@ -79,12 +79,18 @@
   - destructuring props
 - [ ] [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [ ] conception of UI (declarative way)
-- [ ] introduce composability (header with children)
-- [ ] es6 function composition syntax
-- [ ] [React.Fragment](https://reactjs.org/docs/fragments.html)
-- [ ] craft layout of the app
+- [ ] craft cards
 
 **day 4**
+- [ ] craft cards (suite)
+- [ ] in MUI (responsive)
+
+**day 5**
+- [ ] introduce composability (header with children)
+- [ ] test environnement (package.json, jest, jest.config.js, coverage), travis
+- [ ] test React components (shallow / mount, enzyme) and functions (sync, async, Error handling)
+
+**day 6**
 - [ ] questions:
   - es6 string interpolation
   - flexbox wrapped centered layout
@@ -93,7 +99,11 @@
 - [ ] [es6-katas](http://es6katas.org/) (easy only: rest operator, destructuring, default parameters, modules, template strings)
 - [ ] craft grid with flexbox
 
-**day 5**
+- [ ] es6 function composition syntax
+- [ ] [React.Fragment](https://reactjs.org/docs/fragments.html)
+- [ ] craft layout of the app
+
+**day 7**
 - [ ] questions:
   - what is the purpose of the virtualDOM?
   - when React.Fragment is useful?
@@ -102,9 +112,6 @@
 - [ ] test environnement (package.json, jest, jest.config.js, coverage), travis
 - [ ] test React components (shallow / mount, enzyme) and functions (sync, async, Error handling)
 - [ ] introduce curry with the add() sample
-
-**day 6**
-**day 7**
 **day 8**
 **day 9**
 **day 10**
