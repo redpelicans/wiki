@@ -1,4 +1,5 @@
 # session of 2019-02
+
 ## overview
 
 **Attendees:**
@@ -32,7 +33,7 @@
 
 > run `node --version` and `git --version` in the console
 
-##schedule
+## schedule
 
 **ideas (boite à idées):**
 * D3JS charts with C3JS
