@@ -63,6 +63,8 @@
 - [x] react properties, rest parameter, react `PropTypes`
   - [typechecking-with-proptypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
   - [rest-parameter](http://es6-features.org/#RestParameter)
+  - [spread-operator](http://es6-features.org/#SpreadOperator)
+  - [destructuring](http://es6-features.org/#ParameterContextMatching)
 - [x] [katas](http://es6katas.org/) (modules, spread, rest, destructuring)
 - [ ] ways to style in react:
   - css stylesheets (webpack import, className attribute)
