@@ -41,7 +41,7 @@
 * [css-grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 **day 1**
-- [x] [client introduction](https://docs.google.com/presentation/d/1nkelpLG-BikiiHWvfkUj7zxZDdMBx0pyCOhVnqDZLXE)
+- [x] [client introduction](https://docs.google.com/presentation/d/1R48RLleag1PTSy4-CzMdhlr02yTUp2JTGXdstxGfFMU/edit#slide=id.g145b507c17_0_109)
 - [x] [git introduction](http://nvie.com/posts/a-successful-git-branching-model/)
 - [x] [boilerplate introduction](https://github.com/facebook/create-react-app), [semver](https://semver.org/)
 - [x] setup boilerplate (single repository with a develop branch and a develop branch for each attendee)
@@ -67,7 +67,7 @@
   - [classnames](https://github.com/JedWatson/classnames)
   - [css-modules](https://github.com/css-modules/css-modules)
   - [MUI](https://material-ui.com/getting-started/usage/)
-- [ ] [autoprefixer](https://github.com/postcss/autoprefixer)
+- [ ] [autoprefixer](https://github.com/postcss/autoprefixer), [show webpack diagram](https://docs.google.com/presentation/d/1R48RLleag1PTSy4-CzMdhlr02yTUp2JTGXdstxGfFMU/edit#slide=id.g145b507c17_0_109)
 - [ ] craft history (stateless, no props)
 
 **day 3**
