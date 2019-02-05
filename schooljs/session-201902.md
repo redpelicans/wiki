@@ -54,7 +54,6 @@
 - [ ] questions on day 1:
   - difference between `React.Element` and `React.Component`
   - some git commands
-- [ ] [React](https://docs.google.com/presentation/d/1nkelpLG-BikiiHWvfkUj7zxZDdMBx0pyCOhVnqDZLXE)
 - [ ] es6-import-export
   - [cheatsheet](https://hackernoon.com/import-export-default-require-commandjs-javascript-nodejs-es6-vs-cheatsheet-different-tutorial-example-5a321738b50f)
   - [value-import-export](http://es6-features.org/#ValueExportImport)
