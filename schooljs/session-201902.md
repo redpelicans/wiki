@@ -66,7 +66,7 @@
   - [spread-operator](http://es6-features.org/#SpreadOperator)
   - [destructuring](http://es6-features.org/#ParameterContextMatching)
 - [x] [katas](http://es6katas.org/) (modules, spread, rest, destructuring)
-- [ ] ways to style in react:
+- [x] ways to style in react:
   - css stylesheets (webpack import, className attribute)
   - react style (style attribute, scoped, just JS)
   - [classnames](https://github.com/JedWatson/classnames)
