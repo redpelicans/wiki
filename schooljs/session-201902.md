@@ -47,27 +47,29 @@
 - [x] setup boilerplate (single repository with a develop branch and a develop branch for each attendee)
 - [x] dummy pull request with feature branch (setup training git-flow and conventions)
 - [x] tictactoe presentation (UI)
-- [ ] read [react documentation](https://reactjs.org/docs/hello-world.html) (quick start)
-- [ ] read [react-elements-vs-react-components](https://medium.freecodecamp.org/react-elements-vs-react-components-fdc776705880)
+- [x] read [react documentation](https://reactjs.org/docs/hello-world.html) (quick start)
+- [x] read [react-elements-vs-react-components](https://medium.freecodecamp.org/react-elements-vs-react-components-fdc776705880)
 
 **day 2**
-- [ ] questions on day 1:
+- [x] questions on day 1:
   - difference between `React.Element` and `React.Component`
-  - some git commands
-- [ ] es6-import-export
+  - how to fix a bug in production (git)
+  - Can we modify props?
+- [x] [autoprefixer](https://github.com/postcss/autoprefixer), [show webpack diagram](https://docs.google.com/presentation/d/1R48RLleag1PTSy4-CzMdhlr02yTUp2JTGXdstxGfFMU/edit#slide=id.g145b507c17_0_109)
+- [x] es6-import-export
   - [cheatsheet](https://hackernoon.com/import-export-default-require-commandjs-javascript-nodejs-es6-vs-cheatsheet-different-tutorial-example-5a321738b50f)
   - [value-import-export](http://es6-features.org/#ValueExportImport)
   - [default-and-wildcard](http://es6-features.org/#DefaultWildcard)
-- [ ] react properties, rest parameter, react `PropTypes`
+- [x] react properties, rest parameter, react `PropTypes`
   - [typechecking-with-proptypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
   - [rest-parameter](http://es6-features.org/#RestParameter)
+- [x] [katas](http://es6katas.org/) (modules, spread, rest, destructuring)
 - [ ] ways to style in react:
   - css stylesheets (webpack import, className attribute)
   - react style (style attribute, scoped, just JS)
   - [classnames](https://github.com/JedWatson/classnames)
   - [css-modules](https://github.com/css-modules/css-modules)
   - [MUI](https://material-ui.com/getting-started/usage/)
-- [ ] [autoprefixer](https://github.com/postcss/autoprefixer), [show webpack diagram](https://docs.google.com/presentation/d/1R48RLleag1PTSy4-CzMdhlr02yTUp2JTGXdstxGfFMU/edit#slide=id.g145b507c17_0_109)
 - [ ] craft history (stateless, no props)
 
 **day 3**
