@@ -85,6 +85,8 @@
 - [x] craft cards
 
 **day 4**
+- [ ] Add MUI in project
+- [ ] explainWebpackDevServer, bundle.js, css , how App is launched
 - [ ] craft cards (suite)
 - [ ] in MUI (responsive)
 
