@@ -34,11 +34,15 @@
 
 ## schedule
 
-**ideas (boite à idées):**
+**Todo (boite à idées):**
 * D3JS charts with C3JS
 * WP integration
 * Final form with phone input, captcha and email (+confirmation)
 * [css-grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+* named export
+* wild as import
+* rest parameter
+* destructuring props
 
 **day 1**
 - [x] [client introduction](https://docs.google.com/presentation/d/1R48RLleag1PTSy4-CzMdhlr02yTUp2JTGXdstxGfFMU/edit#slide=id.g145b507c17_0_109)
@@ -75,14 +79,10 @@
 - [ ] craft history (stateless, no props)
 
 **day 3**
-- [ ] questions:
-  - named export
-  - wild as import
-  - rest parameter
-  - destructuring props
-- [ ] [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [ ] conception of UI (declarative way)
-- [ ] craft cards
+
+- [x] [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [x] conception of UI (declarative way)
+- [x] craft cards
 
 **day 4**
 - [ ] craft cards (suite)
