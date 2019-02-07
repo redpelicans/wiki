@@ -43,6 +43,7 @@
 * wild as import
 * rest parameter
 * destructuring props
+* tests async, middleware
 
 **day 1**
 - [x] [client introduction](https://docs.google.com/presentation/d/1R48RLleag1PTSy4-CzMdhlr02yTUp2JTGXdstxGfFMU/edit#slide=id.g145b507c17_0_109)
@@ -85,15 +86,14 @@
 - [x] craft cards
 
 **day 4**
-- [ ] Add MUI in project
-- [ ] explainWebpackDevServer, bundle.js, css , how App is launched
-- [ ] craft cards (suite)
-- [ ] in MUI (responsive)
+- [x] Add MUI in project
+- [x] explainWebpackDevServer, bundle.js, css , how App is launched
+- [x] craft cards with MUI
 
 **day 5**
 - [ ] introduce composability (header with children)
 - [ ] test environnement (package.json, jest, jest.config.js, coverage), travis
-- [ ] test React components (shallow / mount, enzyme) and functions (sync, async, Error handling)
+- [ ] test React components (shallow / mount, enzyme) 
 
 **day 6**
 - [ ] questions:
