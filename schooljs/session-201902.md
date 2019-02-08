@@ -91,11 +91,11 @@
 - [x] craft cards with MUI
 
 **day 5**
-- [ ] introduce composability (header with children)
-- [ ] test environnement (package.json, jest, jest.config.js, coverage), travis
-- [ ] test React components (shallow / mount, enzyme) 
+- [x] introduce composability (header with children)
+
 
 **day 6**
+- [ ] test React components (shallow / mount, enzyme) 
 - [ ] questions:
   - es6 string interpolation
   - flexbox wrapped centered layout
