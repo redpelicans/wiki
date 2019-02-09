@@ -93,30 +93,31 @@
 **day 5**
 - [x] introduce composability (header with children)
 
-
 **day 6**
-- [ ] test React components (shallow / mount, enzyme) 
-- [ ] questions:
-  - es6 string interpolation
-  - flexbox wrapped centered layout
-- [ ] pure function into class (React)
-- [ ] read [react lifecycle](https://reactjs.org/docs/react-component.html#the-component-lifecycle)
-- [ ] [es6-katas](http://es6katas.org/) (easy only: rest operator, destructuring, default parameters, modules, template strings)
-- [ ] craft grid with flexbox
-
-- [ ] es6 function composition syntax
-- [ ] [React.Fragment](https://reactjs.org/docs/fragments.html)
-- [ ] craft layout of the app
-
-**day 7**
-- [ ] questions:
-  - what is the purpose of the virtualDOM?
-  - when React.Fragment is useful?
-  - how to do a default export, how to import everything named export of a module (wild)?
-  - what is the role of React?
+- [ ] code review (header, layout with MUI and Grid)
 - [ ] test environnement (package.json, jest, jest.config.js, coverage), travis
 - [ ] test React components (shallow / mount, enzyme) and functions (sync, async, Error handling)
-- [ ] introduce curry with the add() sample
+- [ ] readings FP for day 7:
+  - [ ] read [what-is-functional-programming](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
+  - [ ] read [thinking-in-ramda](http://randycoulman.com/blog/categories/thinking-in-ramda/)
+  - [ ] read [introducing-ramda](http://buzzdecafe.github.io/code/2014/05/16/introducing-ramda)
+  - [ ] read [why-ramda](http://fr.umio.us/why-ramda/)
+  - [ ] watch [undercore-is-doing-wrong](https://www.youtube.com/watch?v=m3svKOdZijA&app=desktop)
+
+**day 7**
+- [ ] tutorial + exercices (https://bitbucket.org/redpelicans/fptraining) with [ramda](http://ramdajs.com/)
+- [ ] history in state and craft history+chart (c3.js), all tested
+
 **day 8**
+off
+
 **day 9**
+- [ ] code review
+- [ ] board from state
+- [ ] react-router
+
 **day 10**
+- [ ] final form (Auth)
+- [ ] context with user
+- [ ] HOC
+- [ ] follow-up start button with setState
