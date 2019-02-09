@@ -9,7 +9,7 @@
 |Florian Chanal|RP|florian.chanal@redpelicans.com (fchanal@student.42.fr)|+33 7 51 67 34 92|
 |Jean-Philippe Hoareau Méavilla|RP|jean-philippe.hoareau@redpelicans.com (jeahoare@gmail.com)|+33 6 20 62 65 48|
 |Rabi Hrichi|?|eng.rabi.hr@gmail.com|+216 28 364 758|
-|Wael Azizi|?|wael.azizi@sesame.com.tn|-|
+|Wael Azizi|give up day 2|wael.azizi@sesame.com.tn|-|
 
 **Todo:**
 - [x] create google accounts (for RP attendees)
