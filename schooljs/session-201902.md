@@ -109,15 +109,17 @@
 - [ ] history in state and craft history+chart (c3.js), all tested
 
 **day 8**
-off
+- [x] craft chart, board, history
 
 **day 9**
-- [ ] code review
-- [ ] board from state
-- [ ] react-router
+- [x] board from state (step6)
+
 
 **day 10**
+- [x] board from state (step6)
+
 - [ ] final form (Auth)
 - [ ] context with user
 - [ ] HOC
 - [ ] follow-up start button with setState
+- [ ] react-router
