@@ -39,11 +39,8 @@
 * WP integration
 * Final form with phone input, captcha and email (+confirmation)
 * [css-grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-* named export
-* wild as import
-* rest parameter
-* destructuring props
 * tests async, middleware
+* react-router
 
 **day 1**
 - [x] [client introduction](https://docs.google.com/presentation/d/1R48RLleag1PTSy4-CzMdhlr02yTUp2JTGXdstxGfFMU/edit#slide=id.g145b507c17_0_109)
@@ -114,12 +111,42 @@
 **day 9**
 - [x] board from state (step6)
 
-
 **day 10**
 - [x] board from state (step6)
 
-- [ ] final form (Auth)
-- [ ] context with user
-- [ ] HOC
-- [ ] follow-up start button with setState
-- [ ] react-router
+**day 11**
+- [ ] login form with controlled/uncontrolled in MUI ([Form](https://material-ui.com/getting-started/page-layout-examples/sign-in/)) `tictactoe_2018:step7`
+- [ ] auth hoc, display current user in the app (header) `tictactoe_2018:step7-hoc`
+- [ ] refactor login form with final form `tictactoe_2018:step7-final-form`
+
+**day 12**
+- [ ] withMouse hoc
+- [ ] final form with phone input
+- [ ] react context with user
+
+**day 13**
+- [ ] _we want to play_: review workflow, make board playable
+
+**day 14**
+- [ ] _we want to play_: review workflow, make board playable
+
+**day 15**
+- [ ] _we want to play_: review workflow, make board playable
+
+**day 16**
+- [ ] pragmatic introduction to fetch to prepare MARVEL
+- [ ] componentDidMount flow fetch
+- [ ] ?
+
+**day 17**
+- [ ] ?
+- [ ] MARVEL instructions
+
+**day 18**
+- [ ] MARVEL
+
+**day 19**
+- [ ] Flux, reducer (sfs like)
+
+**day 20**
+- [ ] ?
