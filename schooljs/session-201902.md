@@ -42,6 +42,8 @@
 * tests async, middleware
 * react-router
 
+### week1
+
 **day 1**
 - [x] [client introduction](https://docs.google.com/presentation/d/1R48RLleag1PTSy4-CzMdhlr02yTUp2JTGXdstxGfFMU/edit#slide=id.g145b507c17_0_109)
 - [x] [git introduction](http://nvie.com/posts/a-successful-git-branching-model/)
@@ -90,6 +92,8 @@
 **day 5**
 - [x] introduce composability (header with children)
 
+### week2
+
 **day 6**
 - [ ] code review (header, layout with MUI and Grid)
 - [ ] test environnement (package.json, jest, jest.config.js, coverage), travis
@@ -114,6 +118,8 @@
 **day 10**
 - [x] board from state (step6)
 
+### week3
+
 **day 11**
 - [ ] login form with controlled/uncontrolled in MUI ([Form](https://material-ui.com/getting-started/page-layout-examples/sign-in/)) `tictactoe_2018:step7`
 - [ ] auth hoc, display current user in the app (header) `tictactoe_2018:step7-hoc`
@@ -132,6 +138,8 @@
 
 **day 15**
 - [ ] _we want to play_: review workflow, make board playable
+
+### week4
 
 **day 16**
 - [ ] pragmatic introduction to fetch to prepare MARVEL
