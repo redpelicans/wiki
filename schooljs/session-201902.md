@@ -41,6 +41,8 @@
 * [css-grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * tests async, middleware
 * react-router
+* final form with phone input
+* react context with user, display current user in the app (header)
 
 ### week1
 
@@ -127,10 +129,11 @@
 
 **day 12**
 - [ ] refactor login form with final form `tictactoe_2018:step7-final-form`
-- [ ] final form with phone input
-- [ ] react context with user, display current user in the app (header)
+- [ ] tutorial + exercices (https://bitbucket.org/redpelicans/fptraining) with [ramda](http://ramdajs.com/)
 
 **day 13**
+- [ ] ramda exercises to check
+- [ ] recompose
 - [ ] _we want to play_: review workflow, make board playable
 
 **day 14**
