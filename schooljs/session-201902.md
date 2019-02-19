@@ -122,13 +122,13 @@
 
 **day 11**
 - [ ] login form with controlled/uncontrolled in MUI ([Form](https://material-ui.com/getting-started/page-layout-examples/sign-in/)) `tictactoe_2018:step7`
-- [ ] auth hoc, display current user in the app (header) `tictactoe_2018:step7-hoc`
-- [ ] refactor login form with final form `tictactoe_2018:step7-final-form`
+- [ ] auth hoc `tictactoe_2018:step7-hoc`
+- [ ] withMouse & withLog hocs (exercises)
 
 **day 12**
-- [ ] withMouse hoc
+- [ ] refactor login form with final form `tictactoe_2018:step7-final-form`
 - [ ] final form with phone input
-- [ ] react context with user
+- [ ] react context with user, display current user in the app (header)
 
 **day 13**
 - [ ] _we want to play_: review workflow, make board playable
