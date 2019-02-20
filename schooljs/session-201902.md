@@ -132,9 +132,8 @@
 - [ ] tutorial + exercices (https://bitbucket.org/redpelicans/fptraining) with [ramda](http://ramdajs.com/)
 
 **day 13**
-- [ ] ramda exercises to check
-- [ ] recompose
-- [ ] _we want to play_: review workflow, make board playable
+- [x] ramda exercises to check
+- [x] recompose on App + withAuth
 
 **day 14**
 - [ ] _we want to play_: review workflow, make board playable
