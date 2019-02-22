@@ -43,6 +43,7 @@
 * react-router
 * final form with phone input
 * react context with user, display current user in the app (header)
+* jest.mock
 
 ### week1
 
@@ -136,14 +137,23 @@
 - [x] recompose on App + withAuth
 
 **day 14**
-- [ ] _we want to play_: review workflow, make board playable
+- [x] recompose
+- [x] wip on game
 
 **day 15**
-- [ ] _we want to play_: review workflow, make board playable
+- [x] 100% test coverage game.js
+- [x] 100% testcomponent snapshot
+- [x] test enhance + enhance(Component)
+- [x] wip full game playable
+- [x] mockey patching
+
 
 ### week4
 
 **day 16**
+- [ ] withAuth
+- [ ] simulateClick
+- [ ] jest.fn
 - [ ] pragmatic introduction to fetch to prepare MARVEL
 - [ ] componentDidMount flow fetch
 - [ ] ?
