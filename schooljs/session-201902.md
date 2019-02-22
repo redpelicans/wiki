@@ -159,7 +159,10 @@
 - [ ] ?
 
 **day 17**
-- [ ] ?
+- [ ] Promises
+- [ ] Promises : stream of icons instead of sdtatic incon in HeaderLeft
+- [ ] Promises : 10 fruits per cell
+- [ ] Promises : fruits until plane
 - [ ] MARVEL instructions
 
 **day 18**
