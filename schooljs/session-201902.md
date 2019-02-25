@@ -154,7 +154,6 @@
   - [x] read [what-is-a-promise](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
   - [x] read [the-promise-of-a-burger-party](https://kosamari.com/notes/the-promise-of-a-burger-party)
   - [x] do [promise-it-wont-hurt](https://github.com/stevekane/promise-it-wont-hurt)
-- [ ] withAuth
 - [ ] simulateClick
 - [ ] jest.fn
 
@@ -165,6 +164,7 @@
 - [ ] pragmatic introduction to fetch to prepare MARVEL
 - [ ] componentDidMount flow fetch
 - [ ] MARVEL instructions
+- [ ] withAuth
 
 **day 18**
 - [ ] MARVEL
