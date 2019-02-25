@@ -147,22 +147,23 @@
 - [x] wip full game playable
 - [x] mockey patching
 
-
 ### week4
 
 **day 16**
+- [x] Promises
+  - [x] read [what-is-a-promise](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
+  - [x] read [the-promise-of-a-burger-party](https://kosamari.com/notes/the-promise-of-a-burger-party)
+  - [x] do [promise-it-wont-hurt](https://github.com/stevekane/promise-it-wont-hurt)
 - [ ] withAuth
 - [ ] simulateClick
 - [ ] jest.fn
-- [ ] pragmatic introduction to fetch to prepare MARVEL
-- [ ] componentDidMount flow fetch
-- [ ] ?
 
 **day 17**
-- [ ] Promises
 - [ ] Promises : stream of icons instead of sdtatic incon in HeaderLeft
 - [ ] Promises : 10 fruits per cell
 - [ ] Promises : fruits until plane
+- [ ] pragmatic introduction to fetch to prepare MARVEL
+- [ ] componentDidMount flow fetch
 - [ ] MARVEL instructions
 
 **day 18**
