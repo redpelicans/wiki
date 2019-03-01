@@ -170,7 +170,13 @@
 - [ ] MARVEL
 
 **day 19**
-- [ ] Flux, reducer (sfs like)
+- [x] Marvel correction
+- [x] Redux Starting guide
 
 **day 20**
-- [ ] ?
+- [x] Marvel with one state
+- [x] https://egghead.io/courses/getting-started-with-redux
+
+**day 21**
+- [ ] Marvel with redux
+- [ ] Tictactoe with Redux
