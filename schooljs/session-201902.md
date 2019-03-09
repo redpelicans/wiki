@@ -188,3 +188,16 @@
 - [x] Tictactoe with Redux
 - [x] Tictactoe with thunk
 - [x] Tictactoe with server side requests
+
+
+**day 24**
+- [ ] test reducer
+- [ ] build own middleware
+- [ ] build test middleware
+
+**day25**
+- [ ] test all
+
+
+
+
