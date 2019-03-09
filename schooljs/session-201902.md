@@ -178,5 +178,13 @@
 - [x] https://egghead.io/courses/getting-started-with-redux
 
 **day 21**
-- [ ] Marvel with redux
-- [ ] Tictactoe with Redux
+- [x] Marvel with redux
+- [x] Tictactoe with Redux
+
+**day 22**
+- [x] Tictactoe with Redux
+
+**day 23**
+- [x] Tictactoe with Redux
+- [x] Tictactoe with thunk
+- [x] Tictactoe with server side requests
