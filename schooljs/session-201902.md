@@ -191,13 +191,15 @@
 
 
 **day 24**
-- [ ] test reducer
-- [ ] build own middleware
-- [ ] build test middleware
+- [x] test reducer
+- [x] build own middleware
+- [x] build test middleware
 
 **day25**
-- [ ] test all
+- [x] test all
 
-
+**day26**
+- [x] review tests
+- [x] introduce jest.mock() to tests async actions
 
 
