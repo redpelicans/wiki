@@ -202,4 +202,6 @@
 - [x] review tests
 - [x] introduce jest.mock() to tests async actions
 
-
+**day27**
+- [x] reselect
+- [x] rendering optimization
