@@ -39,11 +39,8 @@
 * WP integration
 * Final form with phone input, captcha and email (+confirmation)
 * [css-grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-* tests async, middleware
-* react-router
 * final form with phone input
 * react context with user, display current user in the app (header)
-* jest.mock
 
 ### week1
 
@@ -204,4 +201,18 @@
 
 **day27**
 - [x] reselect
-- [x] rendering optimization
+- [x] rendering optimizationc
+
+**day28**
+- [x] promises workshop
+
+
+
+- [ ] routes
+- [ ] optimize rendering
+- [ ] marvel
+- [ ] fruits server
+
+
+
+
