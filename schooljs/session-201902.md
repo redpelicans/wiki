@@ -212,6 +212,8 @@
 - [ ] optimize rendering
 - [ ] marvel
 - [ ] fruits server
+- [ ] tests fruits
+- [ ] tests mongodb-gcs-backup
 
 
 
