@@ -201,15 +201,25 @@
 
 **day27**
 - [x] reselect
-- [x] rendering optimizationc
+- [x] rendering optimizations
 
 **day28**
 - [x] promises workshop
 
+**day29**
+- [x] optimize rendering:
+  - virtual DOM, diffing algo, explicit mutations
+  - Component, PureComponent, shouldComponentUpdate
+  - react devtools highlights, console.log in renders
+  - exercise: https://lucybain.com/blog/2018/react-js-pure-component/
+  - redux#connect, recompose#shouldUpdate, recompose#pure
+- [ ] update tictactoe
+
+**day30**
+- [ ] update tictactoe
 
 
 - [ ] routes
-- [ ] optimize rendering
 - [ ] marvel
 - [ ] fruits server
 - [ ] tests fruits
