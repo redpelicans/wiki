@@ -221,10 +221,12 @@
 - [ ] routes
 
 **day32**
+- [x] fruits server
+
+**day33**
 - [x] marvel
 
-**others**
-- [ ] fruits server
+**day34**
 - [ ] tests fruits
 - [ ] tests mongodb-gcs-backup
 
