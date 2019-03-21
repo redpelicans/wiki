@@ -213,14 +213,17 @@
   - react devtools highlights, console.log in renders
   - exercise: https://lucybain.com/blog/2018/react-js-pure-component/
   - redux#connect, recompose#shouldUpdate, recompose#pure
-- [ ] update tictactoe
 
 **day30**
-- [ ] update tictactoe
+- [x] update tictactoe
 
-
+**day31**
 - [ ] routes
-- [ ] marvel
+
+**day32**
+- [x] marvel
+
+**others**
 - [ ] fruits server
 - [ ] tests fruits
 - [ ] tests mongodb-gcs-backup
