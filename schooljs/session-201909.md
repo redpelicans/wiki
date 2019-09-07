@@ -1,11 +1,17 @@
 # session of 2019-09
 
+#### todo
+- service workers
+- hoc, render as prop, fac
+- tricky questions in interviews
+- atelier wp landing page koopt (use rabi)
+
 #### week1
 
 **day 1**
 - [ ] [client introduction](https://docs.google.com/presentation/d/1R48RLleag1PTSy4-CzMdhlr02yTUp2JTGXdstxGfFMU/edit#slide=id.g145b507c17_0_109)
 - [ ] [boilerplate introduction](https://github.com/facebook/create-react-app), [semver](https://semver.org/)
-- [ ] setup boilerplate (single repository with a develop branch)
+- [ ] setup boilerplate (single repository with a develop branch), with linter and prettier
 - [ ] [git introduction](http://nvie.com/posts/a-successful-git-branching-model/)
 - [ ] dummy pull request with feature branch
 - [ ] read [react documentation](https://reactjs.org/docs/hello-world.html) (quick start)
@@ -26,6 +32,8 @@
   - [spread-operator](http://es6-features.org/#SpreadOperator)
   - [destructuring](http://es6-features.org/#ParameterContextMatching)
 - [ ] [katas](http://es6katas.org/) (modules, spread, rest, destructuring)
+
+**day 3**
 - [ ] [autoprefixer](https://github.com/postcss/autoprefixer), [show webpack diagram](https://docs.google.com/presentation/d/1R48RLleag1PTSy4-CzMdhlr02yTUp2JTGXdstxGfFMU/edit#slide=id.g145b507c17_0_109)
 - [ ] ways to style in react:
   - css stylesheets (webpack import, className attribute)
@@ -34,8 +42,6 @@
   - [css-modules](https://github.com/css-modules/css-modules)
   - [MUI](https://material-ui.com/getting-started/usage/)
 - [ ] craft history (stateless, no props)
-
-**day 3**
 - [ ] [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [ ] conception of UI (declarative way)
 - [ ] craft cards
