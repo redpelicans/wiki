@@ -6,6 +6,14 @@
 - tricky questions in interviews
 - atelier wp landing page koopt (use rabi)
 
+setup copy of tictactoe:
+```
+git clone https://gitlab.com/redpelicans/tictactoe-winter-2019.git
+cd tictactoe-winter-2019
+git remote set-url origin https://gitlab.com/redpelicans/tictactoe-autumn-2019.git
+git push origin master
+```
+
 **Attendees:**
 
 |name|status|email|phone
