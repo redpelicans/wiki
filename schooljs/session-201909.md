@@ -17,16 +17,16 @@
 
 #### week1
 
-**day 1**
-- [ ] [client introduction](https://docs.google.com/presentation/d/1R48RLleag1PTSy4-CzMdhlr02yTUp2JTGXdstxGfFMU/edit#slide=id.g145b507c17_0_109)
+**day 1 (miss morning)**
+- [ ] [client introduction](https://docs.google.com/presentation/d/1R48RLleag1PTSy4-CzMdhlr02yTUp2JTGXdstxGfFMU/edit#slide=id.g145b507c17_0_109) (slides 1 2 3)
 - [ ] [boilerplate introduction](https://github.com/facebook/create-react-app), [semver](https://semver.org/)
 - [ ] setup boilerplate (single repository with a develop branch), with linter and prettier
-- [ ] [git introduction](http://nvie.com/posts/a-successful-git-branching-model/)
-- [ ] dummy pull request with feature branch
-- [ ] read [react documentation](https://reactjs.org/docs/hello-world.html) (quick start)
+- [ ] read [react documentation](https://reactjs.org/docs/hello-world.html) (1 to 5)
 - [ ] read [react-elements-vs-react-components](https://medium.freecodecamp.org/react-elements-vs-react-components-fdc776705880)
 
 **day 2**
+- [ ] (from day1) [git introduction](http://nvie.com/posts/a-successful-git-branching-model/)
+- [ ] (from day1) dummy pull request with feature branch
 - [ ] questions on day 1:
   - difference between `React.Element` and `React.Component`
   - how to fix a bug in production (git)
