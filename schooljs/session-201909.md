@@ -1,10 +1,19 @@
 # session of 2019-09
 
-#### todo
+**todo:**
 - service workers
 - hoc, render as prop, fac
 - tricky questions in interviews
 - atelier wp landing page koopt (use rabi)
+
+**Attendees:**
+
+|name|status|email|phone
+|---|---|---|---|
+|Alexandre Gaulet|RP|alexandre.gaulet@redpelicans.com (gauletalexmarvin@gmail.com)|-|
+|Marvin Gaulet|RP|marvin.gaulet@redpelicans.com (-)|-|
+|Samer Salmi|TN|samersalmi@rocketmail.com|-|
+|Aladin Mrebai|TN|aladinmrebai@gmail.com|-|
 
 #### week1
 
